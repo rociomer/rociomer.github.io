@@ -5,7 +5,7 @@ permalink: /publication/2020-08-31-practical-notes
 excerpt: 'This work presents technical notes and tips on developing graph generative models for molecular design. This work stems from the development of GraphINVENT. Technical details that could be of interest to researchers developing their own molecular generative models are discussed, including strategies for designing new models.'
 date: 2020-08-31
 venue: 'ChemRxiv'
-paperurl: 'https://chemrxiv.org/articles/preprint/Practical_Notes_on_Building_Molecular_Graph_Generative_Models/12888383'
+paperurl: <a href='https://chemrxiv.org/articles/preprint/Practical_Notes_on_Building_Molecular_Graph_Generative_Models/12888383'>link</a>
 citation: 'Mercado, Rocío. (2020). &quot;Practical notes on building molecular graph generative models.&quot; <i>ChemRxiv</i>.'
 ---
 
