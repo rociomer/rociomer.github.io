@@ -184,7 +184,6 @@ defaults:
       author_profile: true
       comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -213,19 +212,21 @@ defaults:
   # _recent_talks
   - scope:
       path: ""
-      type: talks
+      type: recent_talks
     values:
       layout: talk
       author_profile: true
       share: true
+      comments: true
   # _upcoming_talks
   - scope:
       path: ""
-      type: talks
+      type: upcoming_talks
     values:
       layout: talk
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
