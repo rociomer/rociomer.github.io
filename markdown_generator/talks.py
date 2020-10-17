@@ -78,10 +78,7 @@ for row, item in talks.iterrows():
     else:
         md += 'type: "Talk"\n'
     
-    if str(item.status) == "Recent":
-        md += "permalink: /recent_talks/" + html_filename + "\n"
-    elif str(item.status) == "Upcoming":
-        md += "permalink: /upcoming_talks/" + html_filename + "\n"
+    md += "permalink: /talks/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
@@ -95,9 +92,11 @@ for row, item in talks.iterrows():
     md += "---\n"
     
     
-    if len(str(item.talk_url)) > 3:
-        md += "\n[link](" + item.talk_url + ")\n" 
+    if len(str(item.event_url)) > 3:
+        md += "\n[event page](" + item.event_url + ")\n" 
         
+    if len(str(item.video_url)) > 3:
+        md += "\n[video](" + item.video_url + ")\n" 
     
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"
