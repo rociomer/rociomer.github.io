@@ -92,12 +92,12 @@ for row, item in talks.iterrows():
     md += "---\n"
     
     
-    if len(str(item.event_url)) > 3:
-        md += "\n[event page](" + item.event_url + ")\n" 
-        
     if len(str(item.video_url)) > 3:
         md += "\n[video](" + item.video_url + ")\n" 
     
+    if len(str(item.event_url)) > 3:
+        md += "\n[event page](" + item.event_url + ")\n" 
+        
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"
         
