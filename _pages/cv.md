@@ -9,27 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Chemistry, Caltech, 2013
-* Ph.D in Chemistry, UC Berkeley, 2018
+## Education
+* 2018 | Ph.D in Chemistry, UC Berkeley
+* 2013 | B.S. in Chemistry, Caltech
 
-Work experience
-======
-* October 2018 - *present*: Postdoctoral Researcher
-  * Molecular AI (MAI) Team, AstraZeneca
+## Work experience
+* 10/2018 – present | Postdoctoral researcher
+  * Molecular AI Team, AstraZeneca
 
-* September 2013 - August 2018: Research Assistant
-  * MolSim Group, UC Berkeley
-  * LSMO Group (visiting), EPFL
-  * Supervisor: Professor Berend Smit
+* 09/2013 – 08/2018 | Research assistant
+  * MolSim group, UC Berkeley & LSMO group, EPFL
 
-* April 2011 - July 2013: Undergraduate Research Assistant
-  * Gray Group, Caltech
-  * Supervisor: Professor Harry Gray
+* 04/2011 – 07/2013 | Undergraduate research assistant
+  * Gray group, Caltech
   
-Skills
-======
+## Research areas
 * Computational chemistry
   * Molecular simulations
 * AI applied to molecular design
@@ -37,8 +31,7 @@ Skills
   * Property prediction
 * Nanoporous materials and drug discovery
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
