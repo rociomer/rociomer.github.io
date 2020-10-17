@@ -150,7 +150,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
+  recent_talks:
+    output: true
+    permalink: /:collection/:path/
+  upcoming_talks:
     output: true
     permalink: /:collection/:path/
   resources:
@@ -208,7 +211,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talks
+  # _recent_talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _upcoming_talks
   - scope:
       path: ""
       type: talks
