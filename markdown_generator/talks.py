@@ -103,8 +103,12 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_talks/" + md_filename, 'w') as f:
-        f.write(md)
+    if str(item.status) == "Recent":
+        with open("../_recent_talks/" + md_filename, 'w') as f:
+            f.write(md)
+    elif str(item.status) == "Upcoming":
+        with open("../_upcoming_talks/" + md_filename, 'w') as f:
+            f.write(md)
 
 
 # These files are in the talks directory, one directory below where we're working from.
