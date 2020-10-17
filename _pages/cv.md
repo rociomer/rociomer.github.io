@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* *2018* \| Ph.D in Chemistry, UC Berkeley
-* *2013* \| B.S. in Chemistry, Caltech
+* **2018** \| PhD in Chemistry, University of California, Berkeley
+* **2013** \| BSc in Chemistry, California Institute of Technology
 
 ## Research experience
 * *10/2018 – present* \| Postdoctoral researcher
