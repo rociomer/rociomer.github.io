@@ -10,17 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* 2018 | Ph.D in Chemistry, UC Berkeley
-* 2013 | B.S. in Chemistry, Caltech
+* 2018 \| Ph.D in Chemistry, UC Berkeley
+* 2013 \| B.S. in Chemistry, Caltech
 
 ## Work experience
-* 10/2018 – present | Postdoctoral researcher
+* 10/2018 – present \| Postdoctoral researcher
   * Molecular AI Team, AstraZeneca
 
-* 09/2013 – 08/2018 | Research assistant
+* 09/2013 – 08/2018 \| Research assistant
   * MolSim group, UC Berkeley & LSMO group, EPFL
 
-* 04/2011 – 07/2013 | Undergraduate research assistant
+* 04/2011 – 07/2013 \| Undergraduate research assistant
   * Gray group, Caltech
   
 ## Research areas
