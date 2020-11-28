@@ -6,7 +6,7 @@ tags:
   - postdoc fellowships
   - research funding
 ---
-Below is a list I've compiled of postdoctoral research fellowships which might be of interest to PhD students and postdocs in fields related to computational chemistry. I try to keep the list updated but if you spot a mistake or would like me to add anything please contact me at mercadorocio137 [at] gmail [dot] com.
+Here is a list I've compiled of postdoctoral research fellowships which might be of interest to PhD students and postdocs in fields related to computational chemistry. I try to keep the list updated but if you spot a mistake or would like me to add anything please contact me at mercadorocio137 [at] gmail [dot] com.
 
 | Fellowship Name | Application Cycle | Application Opens | Application Deadline |  Years Since PhD | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|---|
