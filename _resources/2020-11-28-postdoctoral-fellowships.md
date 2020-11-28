@@ -10,14 +10,14 @@ Below is a list I've compiled of postdoctoral research fellowships which might b
 
 | Fellowship Name | Application Cycle | Application Opens | Application Deadline |  Years Since PhD | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|---|
-| [Academy of Finland Postdoctoral Research Fellowship](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/) | 1x/year | September | September | 0-4 | Any | FI | - | Five years of funding |
+| [Academy of Finland Postdoctoral Research Fellowship](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/) | 1x/year | September | September | 0-4 | Any | FI | - | 5 years of funding |
 | [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | Rolling | - | - | - | - | - | - | Travel award |  
-| [Admiral Grace Hopper Fellowship in Computing](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) | - | - | November | 0-3 | - | US | LBNL | Computational sciences |
+| [Admiral Grace Hopper Fellowship in Computing](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) | 1x/year | - | November | 0-3 | - | US | LBNL | Computational sciences |
 | [Allen AI Young Investigator](https://allenai.org/young-investigators) | Rolling | - | - | - | Any | US | Allen Institute | Artificial intelligience |
-| [Ambizione](http://www.snf.ch/en/funding/careers/ambizione/) | - | - | November (?) | 0-4| Any |  CH | - | - |
-| [Arnold O. Beckman Postdoctoral Fellowship ](https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/) | 1x/year | September | February | 0-1.5 | US | US | - | - |
-| [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | - | June | October | 0-3 | Any | CA | - | - | 
-| [Beckman Institute Postdoctoral Fellowship Program](https://beckman.illinois.edu/research/fellowships-and-awards/postdoctoral-fellows-program) | March (?) | - | - | 0-10 | Any | US | University of Illinois | - |
+| [Ambizione](http://www.snf.ch/en/funding/careers/ambizione/) | 1x/year | - | November | 0-4 | Any |  CH | - | Funds an independent project at a Swiss higher education institution for up to 4 years |
+| [Arnold O. Beckman Postdoctoral Fellowship ](https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/) | 1x/year | June | September | 0-1.5 | US | US | - | Chemical sciences and instrumentation, 2-3 years of funding |
+| [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | 1x/year | June | October | 0-3 | Any | CA | - | Various research areas, 2 years of funding | 
+| [Beckman Institute Postdoctoral Fellowship Program](https://beckman.illinois.edu/research/fellowships-and-awards/postdoctoral-fellows-program) | - | - | November | 0-10 | Any | US | University of Illinois | Up to 3 years of funding |
 | [BBRF Young Investigator Grant](https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants) | 1x/year | February (?) | March (?) | 0+ | Any | US | - | - |
 | [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | - | - | September | - | Any | US | - | LGBTQ+ community |
 | [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | - | December | - | Any | DE | Berlin | Mathematics |
