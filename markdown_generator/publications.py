@@ -71,6 +71,7 @@ for row, item in publications.iterrows():
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"\n'
+    print("item:", md)
     
     md += """collection: publications"""
     
