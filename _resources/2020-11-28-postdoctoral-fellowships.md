@@ -18,8 +18,8 @@ Here is a list I've compiled of postdoctoral research fellowships which might be
 | [Arnold O. Beckman Postdoctoral Fellowship ](https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/) | 1x/year | June | September | 0-1.5 | US | US | - | Chemical sciences and instrumentation, 2-3 years of funding |
 | [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | 1x/year | June | October | 0-3 | Any | CA | - | Various research areas, 2 years of funding | 
 | [Beckman Institute Postdoctoral Fellowship Program](https://beckman.illinois.edu/research/fellowships-and-awards/postdoctoral-fellows-program) | - | - | November | 0-10 | Any | US | University of Illinois | Up to 3 years of funding |
-| [BBRF Young Investigator Grant](https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants) | 1x/year | February (?) | March (?) | 0+ | Any | US | - | - |
-| [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | - | - | September | - | Any | US | - | LGBTQ+ community |
+| [BBRF Young Investigator Grant](https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants) | 1x/year | February | March | 0+ | Any | US | - | Two years of funding |
+| [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | 1x/year | - | September | - | Any | US | - | LGBTQ+, professional development award |
 | [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | - | December | - | Any | DE | Berlin | Mathematics |
 | [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | October | January | 0-5 | Any | Any | - | - | 
 | [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | - | February (?) | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Mathematical, Physical Sciences and Engineering |
