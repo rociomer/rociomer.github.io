@@ -20,10 +20,10 @@ Here is a list I've compiled of postdoctoral research fellowships which might be
 | [Beckman Institute Postdoctoral Fellowship Program](https://beckman.illinois.edu/research/fellowships-and-awards/postdoctoral-fellows-program) | - | - | November | 0-10 | Any | US | University of Illinois | Up to 3 years of funding |
 | [BBRF Young Investigator Grant](https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants) | 1x/year | February | March | 0+ | Any | US | - | Two years of funding |
 | [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | 1x/year | - | September | - | Any | US | - | LGBTQ+, professional development award |
-| [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | - | December | - | Any | DE | Berlin | Mathematics |
-| [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | October | January | 0-5 | Any | Any | - | - | 
-| [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | - | February (?) | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Mathematical, Physical Sciences and Engineering |
-| [Carl Tryggers Stiftelse Postdoc Fellowship](https://carltryggersstiftelse.se/ansokningar/regler/) | - | - | - | - | Any | SE | - | - |
+| [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | Fall | December | - | Any | DE | Berlin | Mathematics, 2 years |
+| [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | October | January | 0-5 | Any | Any | - | Up to 5 years of funding | 
+| [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | - | February | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Mathematical, Physical Sciences and Engineering, possibly renewed under [AGEP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5474) |
+| [Carl Tryggers Stiftelse Postdoc Fellowship](https://carltryggersstiftelse.se/ansokningar/regler/) | 1x/year | - | May | - | Any | SE | - | - |
 | [CIFellows](https://cifellows2020.org/2020-application-cycle/) | depends on program funding | - | - | - | Any | US | - | Fellowship response to COVID impact |  
 | [CIRES Visiting Fellows Program](https://cires.colorado.edu/about/institutional-programs/visiting-fellows-program) | 1x/year | - | January (?) | 0-4 | Any | US | CIRES | - |
 | [Cornell Postdoctoral Fellowship Programs](https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/) | various | - | - | 0-2| Any | US | Cornell | Various fellowships |
