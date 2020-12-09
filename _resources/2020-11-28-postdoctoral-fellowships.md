@@ -6,14 +6,14 @@ tags:
   - postdoc fellowships
   - research funding
 ---
-Here is a list I've compiled of postdoctoral research fellowships which might be of interest to PhD students and postdocs in fields related to computational chemistry. I try to keep the list updated but if you spot a mistake or would like me to add anything please contact me at mercadorocio137 [at] gmail [dot] com.
+I've compiled a list of postdoctoral research fellowships which might be of interest to PhD students and postdocs in fields related to computational chemistry and artificial intelligence. I try to keep the list updated but if you spot a mistake or would like me to add anything please contact me at mercadorocio137 [at] gmail [dot] com.
 
 | Fellowship Name | Application Cycle | Application Opens | Application Deadline |  Years Since PhD | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|---|
 | [Academy of Finland Postdoctoral Research Fellowship](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/) | 1x/year | September | September | 0-4 | Any | FI | - | 5 years of funding |
-| [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | Rolling | - | - | - | - | - | - | Travel award |  
+| [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | rolling | - | - | - | - | - | - | Travel award |  
 | [Admiral Grace Hopper Fellowship in Computing](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) | 1x/year | - | November | 0-3 | - | US | LBNL | Computational sciences |
-| [Allen AI Young Investigator](https://allenai.org/young-investigators) | Rolling | - | - | - | Any | US | Allen Institute | Artificial intelligience |
+| [Allen AI Young Investigator](https://allenai.org/young-investigators) | rolling | - | - | - | Any | US | Allen Institute | Artificial intelligience |
 | [Ambizione](http://www.snf.ch/en/funding/careers/ambizione/) | 1x/year | - | November | 0-4 | Any |  CH | - | Funds an independent project at a Swiss higher education institution for up to 4 years |
 | [Arnold O. Beckman Postdoctoral Fellowship ](https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/) | 1x/year | June | September | 0-1.5 | US | US | - | Chemical sciences and instrumentation, 2-3 years of funding |
 | [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | 1x/year | June | October | 0-3 | Any | CA | - | Various research areas, 2 years of funding | 
@@ -24,21 +24,21 @@ Here is a list I've compiled of postdoctoral research fellowships which might be
 | [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | October | January | 0-5 | Any | Any | - | Up to 5 years of funding | 
 | [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | - | February | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Mathematical, Physical Sciences and Engineering, possibly renewed under [AGEP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5474) |
 | [Carl Tryggers Stiftelse Postdoc Fellowship](https://carltryggersstiftelse.se/ansokningar/regler/) | 1x/year | - | May | - | Any | SE | - | - |
-| [CIFellows](https://cifellows2020.org/2020-application-cycle/) | depends on program funding | - | - | - | Any | US | - | Fellowship response to COVID impact |  
-| [CIRES Visiting Fellows Program](https://cires.colorado.edu/about/institutional-programs/visiting-fellows-program) | 1x/year | - | January (?) | 0-4 | Any | US | CIRES | - |
-| [Cornell Postdoctoral Fellowship Programs](https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/) | various | - | - | 0-2| Any | US | Cornell | Various fellowships |
+| [CIFellows](https://cifellows2020.org/2020-application-cycle/) | depends on program funding | - | - | 0-2 | Any | US | - | Funding for two years |  
+| [CIRES Visiting Fellows Program](https://cires.colorado.edu/about/institutional-programs/visiting-fellows-program) | 1x/year | October | January | 0-4 | Any | US | CIRES | Funding for two years for postdocs, one year for senior scientists |
+| [Cornell Postdoctoral Fellowship Programs](https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/) | various | - | - | 0-2 | Any | US | Cornell | Various fellowships |
 | [CSN Postdoctoral Fellowship](https://susnano.wisc.edu/postdoctoral-fellowship-program/) | 1x/year | - | November | - | Any | US | University of Wisconsin | Center for Sustainable Nanotechnology | 
 | [Director's Postdoctoral Fellowship](https://www.nrel.gov/careers/directors-fellowship.html) | 2x/year | November and  May | March and September | 0-2 | US | US | NREL | - |
-| [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/skills/fellows/) | Rolling | - | - | - | Any | UK | - | - |
-| [EMBO Postdoctoral Fellowships](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships.html#about) | Rolling | - | - | 0-2 | Any | Any* | - | *Must go abroad, biology related subject areas |
+| [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/skills/fellows/) | rolling | - | - | - | Any | UK | - | - |
+| [EMBO Postdoctoral Fellowships](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships.html#about) | rolling | - | - | 0-2 | Any | Any* | - | *Must go abroad, biology related subject areas |
 | [Ernest Rutherford Fellowship](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) | - | July (?) | September (?) | - | Any | UK | - | Must not hold an academic position at time of application |
 | [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) | 2x year | - | March and September | 0-2 | Any | CH | ETH Zurich | - |
-| [Finnish Center for Artificial Intelligence](https://fcai.fi/open-application) | Rolling | - | - | - | Any | FI | Various | Artificial intelligence |
+| [Finnish Center for Artificial Intelligence](https://fcai.fi/open-application) | rolling | - | - | - | Any | FI | Various | Artificial intelligence |
 | [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm) | 1x/year | September | December | - | US | US | - | Seeks to increase diversity in science, engineering, and medicine |
 | [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | - | September | US | Any | - | 2 - 12 month research stays |
 | [Hanna H. Gray Fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Overview) | - | - | January (?) | 0-1.5 | Any* | US | - | *Must have PhD from US institution | 
 | [Harvard Data Science Postdoctoral Fellows](https://datascience.harvard.edu/data-science-postdoctoral-fellows) | 1x/year | - | - | 0+ | Any | US | Harvard | Data science |
-| [Humboldt Research Fellowship](https://www.humboldt-foundation.de/web/pub_progsearch.main?p_lang=en&p_forschungsaufenthalt_id=1&p_promotions_jahr=2016&p_karrierestufe_id=1&p_nation=USA&p_button_search=Search&p_detail_text_id=771) | Rolling | - | - | 0-4 | Any | DE | - | - |
+| [Humboldt Research Fellowship](https://www.humboldt-foundation.de/web/pub_progsearch.main?p_lang=en&p_forschungsaufenthalt_id=1&p_promotions_jahr=2016&p_karrierestufe_id=1&p_nation=USA&p_button_search=Search&p_detail_text_id=771) | rolling | - | - | 0-4 | Any | DE | - | - |
 | [IBS Young Scientist Fellowship](http://www.ibs.re.kr/ysf/apply) | - | - | December | 0-7 | Any | KR | - | - |
 | [IVADO Postdoctoral Funding Program](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/) | 1x/year | - | May (?) | - | Any | CA | IVADO Institution| data science oriented |
 | [Jill Hruby Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/hruby_fellowship.html) | 1x/year | - | November | 0-3 | US | US | Sandia National Labs | Women in engineering and science, national security |
