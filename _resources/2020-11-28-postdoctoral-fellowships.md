@@ -27,11 +27,10 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [CIFellows](https://cifellows2020.org/2020-application-cycle/) | depends on program funding | - | - | 0-2 | Any | US | - | Funding for two years |  
 | [CIRES Visiting Fellows Program](https://cires.colorado.edu/about/institutional-programs/visiting-fellows-program) | 1x/year | October | January | 0-4 | Any | US | CIRES | Funding for two years for postdocs, one year for senior scientists |
 | [Cornell Postdoctoral Fellowship Programs](https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/) | various | - | - | 0-2 | Any | US | Cornell | Various fellowships |
-| [CSN Postdoctoral Fellowship](https://susnano.wisc.edu/postdoctoral-fellowship-program/) | 1x/year | - | November | - | Any | US | University of Wisconsin | Center for Sustainable Nanotechnology | 
-| [Director's Postdoctoral Fellowship](https://www.nrel.gov/careers/directors-fellowship.html) | 2x/year | November and  May | March and September | 0-2 | US | US | NREL | - |
-| [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/skills/fellows/) | rolling | - | - | - | Any | UK | - | - |
-| [EMBO Postdoctoral Fellowships](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships.html#about) | rolling | - | - | 0-2 | Any | Any* | - | *Must go abroad, biology related subject areas |
-| [Ernest Rutherford Fellowship](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) | - | July (?) | September (?) | - | Any | UK | - | Must not hold an academic position at time of application |
+| [Director's Postdoctoral Fellowship](https://www.nrel.gov/careers/directors-fellowship.html) | 2x/year | November and  May | March and September | 0-2 | US | US | NREL | Two years of funding |
+| [Engineering and Physical Sciences Research Council (EPSRC)](https://epsrc.ukri.org/skills/fellows/) | rolling | - | - | - | Any | UK | - | Funding for up to three years |
+| [EMBO Postdoctoral Fellowships](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships.html#about) | rolling | - | - | 0-2 | Any | Any* | - | *Applicant must go abroad, biology related subject areas |
+| [Ernest Rutherford Fellowship](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) | 1x/year | July | September | - | Any | UK | - | Must not hold an academic position at time of application |
 | [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) | 2x year | - | March and September | 0-2 | Any | CH | ETH Zurich | - |
 | [Finnish Center for Artificial Intelligence](https://fcai.fi/open-application) | rolling | - | - | - | Any | FI | Various | Artificial intelligence |
 | [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm) | 1x/year | September | December | - | US | US | - | Seeks to increase diversity in science, engineering, and medicine |
@@ -55,6 +54,7 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [NIH MOSAIC K99/R00](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) | 3x/year | - | February | 0-4 | US | US | - | Health related applications, postdoc training and transition award |
 | [NIH K22 Career Transition Award](https://researchtraining.nih.gov/programs/career-development/k22) | - | - | - | US | US | - | Career transition award |
 | [NASA Postdoctoral Program](https://npp.usra.edu/) | 1x/year | - | November | - | - | US | NASA | - |
+| [NSF CSN (Center for Sustainable Nanotechnology) Postdoctoral Fellowship](https://susnano.wisc.edu/postdoctoral-fellowship-program/) | 1x/year | - | November | - | Any | US | University of Wisconsin | Provides funding for scientists who identify as underrepresented minorities in STEM fields | 
 | [President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/how-to-apply/index.html) | 1x/year | September | November | - | Any | US | Various institutions (including UC system) | If accepted, can apply for Chancellor's Postdoctoral Fellowship Program | | 
 | [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | - | February and August | 0-3 | CH | CH | - | - | 
 | [Rising Stars](https://risingstars.oden.utexas.edu/) | 1x/year | - | January (?) | -1-3 | Any | US | - | Workshop for early-career female scientists is computational sciences |
