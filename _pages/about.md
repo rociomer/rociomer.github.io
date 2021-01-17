@@ -20,4 +20,4 @@ I am currently a postdoc in the Molecular AI group at AstraZeneca (since October
 * *16-11-2020* - We just published a new [preprint](https://chemrxiv.org/articles/preprint/Comparative_Study_of_Deep_Generative_Models_on_Chemical_Space_Coverage/13234289) on the ChemRxiv where we compare chemical space coverage, including functional group and ring system coverage, in the following deep generative models: CharRNN, REINVENT, AAE, VAE, ORGAN, LatentGAN, and GraphINVENT.
 * *08-11-2020* -  Check out the [guest blog post](http://www.cheminformania.com/using-graphinvent-to-generate-novel-drd2-actives/) I wrote for Cheminformania on using GraphINVENT to generate novel DRD2 actives!
 
-Last updated *02-01-2021*.
+Last updated *17-01-2021*.

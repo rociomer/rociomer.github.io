@@ -43,6 +43,7 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [Jill Hruby Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/hruby_fellowship.html) | 1x/year | - | November | 0-3 | US | US | Sandia National Labs | Women in engineering and science, national security |
 | [JSPS Postdoctoral Fellowships for Research in Japan](https://www.jsps.go.jp/english/e-ippan/index.html) | 2x/year | - | September and May | 0-6 | Any | JP | - | - |
 | [John von Neumann Felloship](https://www.sandia.gov/careers/students_postdocs/fellowships/johnvonneumann_fellowship.html)| 1x/year | - | March (?) | 0-3 | US | US | Sandia National Labs | Computational |
+| [Leibniz Competition](https://www.leibniz-gemeinschaft.de/en/research/leibniz-competition.html) | various | - | - | - | Any | DE | - | Various stages of funding |
 | [Leverhulme Fellowships](https://www.leverhulme.ac.uk/schemes-at-a-glance) | various | - | - | - | Any | UK | - | Various calls |
 | [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/meeting/) | 1x/year | - | - | Any* | Any | - | Lindau | *Must be <35 yrs old and not currently holding faculty-type position |
 | [Linus Pauling Distinguished Postdoctoral Fellowship](https://www.pnnl.gov/pauling/) | 1x/year | September (?) | December (?) | - | Any | US | PNNL | - |
@@ -56,7 +57,8 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [NASA Postdoctoral Program](https://npp.usra.edu/) | 1x/year | - | November | - | - | US | NASA | - |
 | [NSF CSN (Center for Sustainable Nanotechnology) Postdoctoral Fellowship](https://susnano.wisc.edu/postdoctoral-fellowship-program/) | 1x/year | - | November | - | Any | US | University of Wisconsin | Provides funding for scientists who identify as underrepresented minorities in STEM fields | 
 | [President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/how-to-apply/index.html) | 1x/year | September | November | - | Any | US | Various institutions (including UC system) | If accepted, can apply for Chancellor's Postdoctoral Fellowship Program | | 
-| [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | - | February and August | 0-3 | CH | CH | - | - | 
+| [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | - | February and August | 0-3 | CH | CH | - | - |
+| [Propel Postdoctoral Scholars Program](https://propel.stanford.edu/application-information/) | 1x/year | - | February | 0-1 | US | US | Stanford | Up to two years of funding |
 | [Rising Stars](https://risingstars.oden.utexas.edu/) | 1x/year | - | January (?) | -1-3 | Any | US | - | Workshop for early-career female scientists is computational sciences |
 | [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/) | 1x/year | August | October | 0-3 | Any | US | Stanford | - |
 | [Schmidt Science Fellows](https://schmidtsciencefellows.org/overview/) | - | - | - | 0-1 | Any | Any*| - | *Can go anywhere in the world, but research must significantly differ from PhD |
@@ -64,5 +66,10 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [Truman Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/truman_fellowship.html) | 1x/year | - | November (?) | 0-3 | US | US | Sandia National Labs | National security |
 | [UC MEXUS-CONACYT Postdoctoral Fellowship Program](https://ucmexus.ucr.edu/funding/fellowship_post_doc.html) | 1x/year | - | February (?) | - | MX | US | UC system | - |
 | [Vector Institute](https://vectorinstitute.bamboohr.com/jobs/view.php?id=70) | 3x/year | - | June \& September (?) | - | Any | CA | University of Toronto and other Ontario universities | Machine Learning |
+| [Vetenskapsrådet (Swedish Research Council)](https://www.vr.se/english) | Various | - | - | Any | SE | - | Sweden's largest governmental research funding agency |
 | [Wenner-Gren Postdoctoral Fellowship](https://www.swgc.org/sarskilda-stipendier.aspx) | 1x/year | November | January | 0-3 | SE | Any (3yr) followed by SE (2yr) | - | - | 
 | [Zuckerman Postdoctoral Scholars Program](https://zuckerman-scholars.org/ourprograms/postdoc-program/) | 1x/year | August | - | - | US | IL | Select Israeli institutions | - |
+
+Other very nice lists of resources:
+* https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
+* http://landrylab.com/fellowships/
