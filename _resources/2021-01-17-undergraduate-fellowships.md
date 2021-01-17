@@ -7,7 +7,7 @@ tags:
   - research funding
   - internships
 ---
-Undergraduate research fellowships and programs which might be of interest to undergraduate in STEM fields. 
+Undergraduate research fellowships and programs available to undergraduates in STEM fields. 
 
 | Fellowship Name | Application Cycle | Application Opens | Application Deadline | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|

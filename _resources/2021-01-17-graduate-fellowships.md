@@ -8,7 +8,7 @@ tags:
   - research funding
   - professional development
 ---
-Graduate fellowships which might be of interest to PhD students and postdocs in STEM fields. 
+Graduate fellowships which might be of interest to undergraduates and PhD students in STEM fields. 
 
 | Fellowship Name | Application Cycle | Application Opens | Application Deadline |  Years Since Degree | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|---|

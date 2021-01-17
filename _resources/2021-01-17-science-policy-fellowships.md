@@ -5,7 +5,7 @@ permalink: /posts/science-policy-fellowships
 tags:
   - science policy
 ---
-Science policy fellowships which might be of interest to PhD students and postdocs in STEM fields.
+Science policy fellowships which might be of interest to scientists at various career stages.
 
 | Fellowship | Application Opens | Application Deadline |
 |---|---|---|
