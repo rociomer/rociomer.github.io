@@ -12,18 +12,18 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | Fellowship Name | Application Cycle | Application Deadline |  Years Since PhD | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|
 | [Academy of Finland Postdoctoral Research Fellowship](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/) | 1x/year | September | 0-4 | Any | FI | - | Five years of funding |
-| [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | Rolling | - | - | US | US | - | ravel award to an ACS National Meeting for URM students |  
+| [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | Rolling | - | - | US | US | - | Travel award to an ACS National Meeting for URM students |  
 | [Admiral Grace Hopper Fellowship in Computing](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) | 1x/year | November | 0-3 | - | US | LBNL | - |
 | [Allen AI Young Investigator](https://allenai.org/young-investigators) | Rolling | - | - | Any | US | Allen Institute | - |
 | [Ambizione](http://www.snf.ch/en/funding/careers/ambizione/) | 1x/year | November | 0-4 | Any |  CH | - | Funds an independent project at a Swiss higher education institution for up to four years |
-| [Arnold O. Beckman Postdoctoral Fellowship ](https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/) | 1x/year | September | 0-1.5 | US | US | - | Chemical sciences and instrumentation, 2-3 years of funding |
-| [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | 1x/year | October | 0-3 | Any | CA | - | Various research areas, two years of funding | 
+| [Arnold O. Beckman Postdoctoral Fellowship ](https://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows/) | 1x/year | September | 0-1.5 | US | US | - | Chemical sciences and instrumentation; 2-3 years of funding |
+| [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | 1x/year | October | 0-3 | Any | CA | - | Two years of funding | 
 | [Beckman Institute Postdoctoral Fellowship Program](https://beckman.illinois.edu/research/fellowships-and-awards/postdoctoral-fellows-program) | - | November | 0-10 | Any | US | University of Illinois | Up to three years of funding |
 | [BBRF Young Investigator Grant](https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants) | 1x/year | March | 0+ | Any | US | - | Two years of funding |
 | [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | 1x/year | September | - | Any | US | - | Professional development fellowship for LGBTQ+ students and postdocs |
-| [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | December | - | Any | DE | Berlin | Mathematics, 2 years |
+| [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | December | - | Any | DE | Berlin | Two years of funding for research in mathematics |
 | [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | January | 0-5 | Any | Any | - | Up to five years of funding | 
-| [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | February | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Mathematical, Physical Sciences and Engineering, possibly renewed under [AGEP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5474) |
+| [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | February | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Program possibly renewed under [AGEP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5474) |
 | [Carl Tryggers Stiftelse Postdoc Fellowship](https://carltryggersstiftelse.se/ansokningar/regler/) | 1x/year | May | - | Any | SE | - | - |
 | [CIFellows](https://cifellows2020.org/2020-application-cycle/) | Depends on program funding | - | 0-2 | Any | US | - | Two years of funding |  
 | [CIRES Visiting Fellows Program](https://cires.colorado.edu/about/institutional-programs/visiting-fellows-program) | 1x/year | January | 0-4 | Any | US | CIRES | Two years of funding for postdocs, one year for senior scientists |
@@ -40,13 +40,13 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [Harvard Data Science Postdoctoral Fellows](https://datascience.harvard.edu/data-science-postdoctoral-fellows) | 1x/year | - | 0+ | Any | US | Harvard | - |
 | [Humboldt Research Fellowship](https://www.humboldt-foundation.de/web/pub_progsearch.main?p_lang=en&p_forschungsaufenthalt_id=1&p_promotions_jahr=2016&p_karrierestufe_id=1&p_nation=USA&p_button_search=Search&p_detail_text_id=771) | Rolling | - | 0-4 | Any | DE | - | - |
 | [IBS Young Scientist Fellowship](http://www.ibs.re.kr/ysf/apply) | - | December | 0-7 | Any | KR | - | - |
-| [IVADO Postdoctoral Funding Program](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/) | 1x/year | May | - | Any | CA | IVADO Institution| Data science-oriented |
+| [IVADO Postdoctoral Funding Program](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/) | 1x/year | May | 0-5 | Any | CA | IVADO Institution| Data science-oriented |
 | [Jill Hruby Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/hruby_fellowship.html) | 1x/year | November | 0-3 | US | US | Sandia National Labs | Women in engineering and science, national security |
 | [JSPS Postdoctoral Fellowships for Research in Japan](https://www.jsps.go.jp/english/e-ippan/index.html) | 2x/year | September and May | 0-6 | Any | JP | - | - |
-| [John von Neumann Felloship](https://www.sandia.gov/careers/students_postdocs/fellowships/johnvonneumann_fellowship.html)| 1x/year | March | 0-3 | US | US | Sandia National Labs | Computational |
+| [John von Neumann Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/johnvonneumann_fellowship.html)| 1x/year | March | 0-3 | US | US | Sandia National Labs | Computational |
 | [Leibniz Competition](https://www.leibniz-gemeinschaft.de/en/research/leibniz-competition.html) | Various | - | - | Any | DE | - | Various stages of funding |
 | [Leverhulme Fellowships](https://www.leverhulme.ac.uk/schemes-at-a-glance) | Various | - | - | Any | UK | - | Various stages of funding |
-| [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/meeting/) | 1x/year | - | Any* | Any | - | Lindau | *Must be <35 yrs old and not currently holding faculty-type position |
+| [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/meeting/) | 1x/year | - | Any* | Any | - | Lindau | *Must be <35 yrs old and not currently hold faculty-type position |
 | [Linus Pauling Distinguished Postdoctoral Fellowship](https://www.pnnl.gov/pauling/) | 1x/year | December | - | Any | US | PNNL | - |
 | [L’Oréal USA For Women in Science Fellowship Program](https://www.loreal.com/en/usa/pages/group/fwis/) | - | January | - | US | US | - | - |
 | [L’Oréal-Unesco For Women in Science-priset](https://www.sverigesungaakademi.se/733.html) | 1x/year | September | 0-4 | Any* | SE | - | *Must be associated with Swedish research institution | 
@@ -58,20 +58,19 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [NIH K22 Career Transition Award](https://researchtraining.nih.gov/programs/career-development/k22) | - | - | - | US | US | - | Career transition award |
 | [NASA Postdoctoral Program](https://npp.usra.edu/) | 3x/year | November, March, and July | - | - | US | NASA | Up to three years of funding |
 | [NSF Center for Sustainable Nanotechnology (CSN) Postdoctoral Fellowship](https://susnano.wisc.edu/postdoctoral-fellowship-program/) | 1x/year | November | - | Any | US | University of Wisconsin | Provides funding for scientists who identify as underrepresented minorities in STEM fields | 
-| [NSF Centers for Chemical Innovation (CCI) Postdoctoral Fellowships](https://www.nsfcci.org/postdoc) | Various | - | - | - | US | - | - |
+| [NSF Centers for Chemical Innovation (CCI) Postdoctoral Fellowships](https://www.nsfcci.org/postdoc) | Various | - | - | - | US | Various | - |
 | [President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/how-to-apply/index.html) | 1x/year | November | - | Any | US | Various institutions (including UC system) | If accepted, can apply for Chancellor's Postdoctoral Fellowship Program |
-| [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | February and August | 0-3 | CH | CH | - | - |
+| [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | February and August | 0-3 | CH | CH | - | Two years of funding |
 | [Propel Postdoctoral Scholars Program](https://propel.stanford.edu/application-information/) | 1x/year | February | 0-1 | US | US | Stanford | Up to two years of funding |
-| [Rising Stars](https://risingstars.oden.utexas.edu/) | 1x/year | January | -1-3 | Any | US | - | Workshop for early-career female scientists is computational sciences |
 | [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/) | 1x/year | October | 0-3 | Any | US | Stanford | - |
 | [Schmidt Science Fellows](https://schmidtsciencefellows.org/overview/) | - | - | 0-1 | Any | Any*| - | *Can go anywhere in the world, but research must significantly differ from PhD |
 | [Swiss Government Excellence Scholarships for Foreign Scholars](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#1658819252) | 1x/year | October | - | Any | CH | - | - |
-| [Truman Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/truman_fellowship.html) | 1x/year | November | 0-3 | US | US | Sandia National Labs | National security |
-| [UC MEXUS-CONACYT Postdoctoral Fellowship Program](https://ucmexus.ucr.edu/funding/fellowship_post_doc.html) | 1x/year | February | - | MX | US | UC system | - |
-| [Vector Institute](https://vectorinstitute.bamboohr.com/jobs/view.php?id=70) | 3x/year | June & September | - | Any | CA | University of Toronto and other Ontario universities | Machine Learning |
+| [Truman Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/truman_fellowship.html) | 1x/year | November | 0-3 | US | US | Sandia National Labs | National security-related research |
+| [UC MEXUS-CONACYT Postdoctoral Fellowship Program](https://ucmexus.ucr.edu/funding/fellowship_post_doc.html) | 1x/year | February | - | MX | US | UC system | One year of funding |
+| [Vector Institute](https://vectorinstitute.ai/portfolio-posts/postdoctoral-fellow-positions/) | 3x/year | - | - | Any | CA | University of Toronto and other Ontario universities | Machine learning-related research |
 | [Vetenskapsrådet (Swedish Research Council)](https://www.vr.se/english) | Various | - | - | Any | SE | - | Sweden's largest governmental research funding agency |
 | [Wenner-Gren Postdoctoral Fellowship](https://www.swgc.org/sarskilda-stipendier.aspx) | 1x/year | January | 0-3 | SE | SE* | - | *Up to three years of funding abroad, followed by two years at a Swedish institution |
-| [Zuckerman Postdoctoral Scholars Program](https://zuckerman-scholars.org/ourprograms/postdoc-program/) | 1x/year | November, January, and March | - | US | IL | Select Israeli institutions | - |
+| [Zuckerman Postdoctoral Scholars Program](https://zuckerman-scholars.org/ourprograms/postdoc-program/) | 3x/year | November, January, and March | - | US | IL | Select Israeli institutions | - |
 
 Other good lists of resources:
 * Johns Hopkins University has published a nice [Excel spreadsheet](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) listing various postdoctoral fellowships

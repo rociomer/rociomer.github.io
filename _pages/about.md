@@ -13,7 +13,7 @@ redirect_from:
 I am currently a postdoc in the Molecular AI group at AstraZeneca (since October 2018), where I get to play around with deep molecular generative models. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at UC Berkeley and EPFL. I received my PhD in Chemistry from UC Berkeley in July 2018, and my BS in Chemistry from Caltech in June 2013.
 
 # News
-* *17-01-2021* - I have updated the [resources](https://rociomer.github.io/resources/) tab with various lists of largely academic resources (e.g. fellowships) relevant to students and postdocs working in STEM fields. Check it out, and please share with anyone who might benefit!
+* *17-01-2021* - I have updated the [resources](https://rociomer.github.io/resources/) tab with various lists of largely academic resources (e.g. fellowships) for students and postdocs working in STEM fields. Please share with anyone who might benefit!
 * *09-12-2020* - I gave a talk at the ML4Molecules Workshop at NeurIPS 2020. You can view the talk [here](https://slideslive.com/38938184/applying-graph-neural-networks-to-molecular-design).
 * *01-12-2020* - Our technical note on building molecular graph generative models has been accepted [in AAIL](https://doi.org/10.1002/ail2.18)!
 * *01-12-2020* - Our paper *Graph Networks for Molecular Design* has been accepted [in MLST](https://doi.org/10.1088/2632-2153/abcf91)! 
