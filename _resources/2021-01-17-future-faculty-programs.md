@@ -6,7 +6,7 @@ tags:
   - postdoc fellowships
   - future-faculty-programs
 ---
-I've compiled a list of future faculty programs which might be of interest to PhD students and postdocs in fields related to computational chemistry and artificial intelligence. If you spot a mistake or would like me to add anything please reach out at mercadorocio137 [at] gmail [dot] com.
+Future faculty programs which might be of interest to PhD students and postdocs in STEM fields.
 
 | Fellowship Name | Application Deadline |  Eligibility |
 |---|---|---|---|---|---|---|---|---|

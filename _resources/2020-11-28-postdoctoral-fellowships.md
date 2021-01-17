@@ -1,12 +1,13 @@
 ---
-title: 'Postdoctoral research fellowships'
+title: 'Postdoctoral fellowships'
 date: 2020-11-28
 permalink: /posts/postdoc-fellowships
 tags:
   - postdoc fellowships
   - research funding
+  - professional development
 ---
-I've compiled a list of postdoctoral research fellowships which might be of interest to PhD students and postdocs in fields related to computational chemistry and artificial intelligence. I try to keep the list updated but if you spot a mistake or would like me to add anything please contact me at mercadorocio137 [at] gmail [dot] com.
+Postdoctoral fellowships which might be of interest to PhD students and postdocs in STEM fields, with a slight bias towards computational chemistry and artificial intelligence research fellowships.
 
 | Fellowship Name | Application Cycle | Application Opens | Application Deadline |  Years Since PhD | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|---|
@@ -34,7 +35,7 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) | 2x year | - | March and September | 0-2 | Any | CH | ETH Zurich | - |
 | [Finnish Center for Artificial Intelligence](https://fcai.fi/open-application) | rolling | - | - | - | Any | FI | Various | Artificial intelligence |
 | [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm) | 1x/year | September | December | - | US | US | - | Seeks to increase diversity in science, engineering, and medicine |
-| [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | - | September | US | Any | - | 2 - 12 month research stays |
+| [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | - | September | - | US | Any | - | 2 - 12 month research stays |
 | [Hanna H. Gray Fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Overview) | - | - | January (?) | 0-1.5 | Any* | US | - | *Must have PhD from US institution | 
 | [Harvard Data Science Postdoctoral Fellows](https://datascience.harvard.edu/data-science-postdoctoral-fellows) | 1x/year | - | - | 0+ | Any | US | Harvard | Data science |
 | [Humboldt Research Fellowship](https://www.humboldt-foundation.de/web/pub_progsearch.main?p_lang=en&p_forschungsaufenthalt_id=1&p_promotions_jahr=2016&p_karrierestufe_id=1&p_nation=USA&p_button_search=Search&p_detail_text_id=771) | rolling | - | - | 0-4 | Any | DE | - | - |
@@ -53,10 +54,11 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [Marie Skłodowska-Curie Individual Fellowship](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/msca-if-2020;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501;programCode=H2020;programDivisionCode=31047830;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) | 1x/year | April | September | - | Any | EU | - | Various types of actions |
 | [MolSSI Software Fellowship Program](https://molssi.org/the-molssi-software-fellowship-program/) | 2x/year | - | April 1 and October 1 | - | Any | US | - | Supports software development for the sciences |
 | [NIH MOSAIC K99/R00](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) | 3x/year | - | February | 0-4 | US | US | - | Health related applications, postdoc training and transition award |
-| [NIH K22 Career Transition Award](https://researchtraining.nih.gov/programs/career-development/k22) | - | - | - | US | US | - | Career transition award |
+| [NIH K22 Career Transition Award](https://researchtraining.nih.gov/programs/career-development/k22) | - | - | - | - | US | US | - | Career transition award |
 | [NASA Postdoctoral Program](https://npp.usra.edu/) | 1x/year | - | November | - | - | US | NASA | - |
 | [NSF CSN (Center for Sustainable Nanotechnology) Postdoctoral Fellowship](https://susnano.wisc.edu/postdoctoral-fellowship-program/) | 1x/year | - | November | - | Any | US | University of Wisconsin | Provides funding for scientists who identify as underrepresented minorities in STEM fields | 
-| [President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/how-to-apply/index.html) | 1x/year | September | November | - | Any | US | Various institutions (including UC system) | If accepted, can apply for Chancellor's Postdoctoral Fellowship Program | | 
+| [NSF CCI (Centers for Chemical Innovation) Postdoctoral Fellowships](https://www.nsfcci.org/postdoc) | Various | - | - | - | - | US | - | - |
+| [President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/how-to-apply/index.html) | 1x/year | September | November | - | Any | US | Various institutions (including UC system) | If accepted, can apply for Chancellor's Postdoctoral Fellowship Program |
 | [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | - | February and August | 0-3 | CH | CH | - | - |
 | [Propel Postdoctoral Scholars Program](https://propel.stanford.edu/application-information/) | 1x/year | - | February | 0-1 | US | US | Stanford | Up to two years of funding |
 | [Rising Stars](https://risingstars.oden.utexas.edu/) | 1x/year | - | January (?) | -1-3 | Any | US | - | Workshop for early-career female scientists is computational sciences |
@@ -66,10 +68,10 @@ I've compiled a list of postdoctoral research fellowships which might be of inte
 | [Truman Fellowship](https://www.sandia.gov/careers/students_postdocs/fellowships/truman_fellowship.html) | 1x/year | - | November (?) | 0-3 | US | US | Sandia National Labs | National security |
 | [UC MEXUS-CONACYT Postdoctoral Fellowship Program](https://ucmexus.ucr.edu/funding/fellowship_post_doc.html) | 1x/year | - | February (?) | - | MX | US | UC system | - |
 | [Vector Institute](https://vectorinstitute.bamboohr.com/jobs/view.php?id=70) | 3x/year | - | June \& September (?) | - | Any | CA | University of Toronto and other Ontario universities | Machine Learning |
-| [Vetenskapsrådet (Swedish Research Council)](https://www.vr.se/english) | Various | - | - | Any | SE | - | Sweden's largest governmental research funding agency |
+| [Vetenskapsrådet (Swedish Research Council)](https://www.vr.se/english) | Various | - | - | - | Any | SE | - | Sweden's largest governmental research funding agency |
 | [Wenner-Gren Postdoctoral Fellowship](https://www.swgc.org/sarskilda-stipendier.aspx) | 1x/year | November | January | 0-3 | SE | Any (3yr) followed by SE (2yr) | - | - | 
 | [Zuckerman Postdoctoral Scholars Program](https://zuckerman-scholars.org/ourprograms/postdoc-program/) | 1x/year | August | - | - | US | IL | Select Israeli institutions | - |
 
 Other very nice lists of resources:
-* https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
-* http://landrylab.com/fellowships/
+* Johns Hopkins University has published a nice [Excel spreadsheet](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) listing various postdoctoral fellowships
+* The Landry Lab has published various nice lists of resources on [their lab page](http://landrylab.com/fellowships/)
