@@ -1,6 +1,6 @@
 ---
 title: 'Future faculty programs'
-date: 2021-01-17
+date: 2021-01-16
 permalink: /posts/future-faculty-programs
 tags:
   - postdoc fellowships

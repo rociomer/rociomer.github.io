@@ -12,15 +12,14 @@ Graduate fellowships which might be of interest to undergraduates and PhD studen
 
 | Fellowship Name | Application Cycle | Application Deadline |  Years Since Degree | Countries Eligible | Host Countries | Institution | Details |
 |---|---|---|---|---|---|---|---|
-| [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | Rolling | - | - | - | - | - | Travel award to an ACS National Meeting for URM students |  
+| [ACS Bridge Travel & Career/Professional Development Award](https://www.acs.org/content/acs/en/education/students/graduate/bridge-project/students/bridge-travel-award.html) | Rolling | - | - | US | US | - | Travel award to an ACS National Meeting for URM students |  
 | [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | - | September | - | Any | US | - | Professional development fellowship for LGBTQ+ students and postdocs |
-| [Blue Waters Graduate Fellowship](https://bluewaters.ncsa.illinois.edu/fellowships) | - | - | 1+ | US | US | - | Interdisciplinary computational sciences |
-| [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/) | - | - | Any | US* | FR | - | *Any nationality except French eligible, so long as currently at US instutition |
+| [Blue Waters Graduate Fellowship](https://bluewaters.ncsa.illinois.edu/fellowships) | - | - | 1+ | US | US | - | Interdisciplinary computational sciences; one year of funding |
+| [Chateaubriand Fellowship](https://chateaubriand-fellowship.org/) | - | - | Any | US* | FR | - | *Any nationality except French eligible, so long as currently at US instutition; research stays of 4-9 months |
 | [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/how-apply) | 1x/year | January | -1-1| US | US | - | Up to four years of funding |
-| [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) | 1x/year | October | -1-1 | US | US | - | - |
-| [Leverhulme Fellowships](https://www.leverhulme.ac.uk/schemes-at-a-glance) | Various | - | - | Any | UK | - | Various calls |
-| [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/meeting/) | 1x/year | - | Any* | Any | - | Lindau | *Must be <35 yrs old and not currently holding faculty-type position |
-| [NDSEG](https://ndseg.sysplus.com/NDSEG/about/) | 1x/year | December | -1-2 | US | US | - | - |
-| [NSF GRFP](https://www.nsfgrfp.org/) | 1x/year | October* | -1-2 | US | US | - | *Specific deadline varies by discipline |
+| [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) | 1x/year | October | -1-1 | US | US | Participating institutions | Up to five years of funding |
+| [Lindau Nobel Laureate Meetings](https://www.lindau-nobel.org/meeting/) | 1x/year | - | Any* | Any | - | Lindau | *Must be <35 yrs old and not currently holding faculty-type position; participation in Landau Meeting |
+| [NDSEG](https://ndseg.sysplus.com/NDSEG/about/) | 1x/year | December | -1-2 | US | US | - | Three years of funding |
+| [NSF GRFP](https://www.nsfgrfp.org/) | 1x/year | October* | -1-2 | US | US | - | *Specific deadline varies by discipline; three years of funding |
 | [NSF GRFP GROW](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) | 1x/year | December | - | US* | GROW partner countries | - | *Must have GRFP, supports international research stays |
-| [UCAR Next Generation Fellowships](https://www.ucar.edu/opportunities/fellowships/ucar-next-generation-fellowships) | 1x/year | June | - | US | US | - | - |
+| [University Corporation for Atmospheric Research (UCAR) Next Generation Fellowships](https://www.ucar.edu/opportunities/fellowships/ucar-next-generation-fellowships) | Various | - | - | US | US | Boulder, CO or Washington D.C. | Professional development fellowships in Earth System Science, D\&I, and Public Policy |
