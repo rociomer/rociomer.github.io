@@ -7,7 +7,7 @@ tags:
 ---
 Science policy fellowships which might be of interest to scientists at various career stages.
 
-| Fellowship | Application Opens | Application Deadline |
+| Fellowship Name | Application Opens | Application Deadline |
 |---|---|---|
 | [AAAS Science and Technology Policy Fellowships](https://www.aaas.org/programs/science-technology-policy-fellowships) | June | November |
 | [ACS Public Policy Fellowship Program](https://www.acs.org/content/acs/en/policy/policyfellowships/programs.html) | - | January |
