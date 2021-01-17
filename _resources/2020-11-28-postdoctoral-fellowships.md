@@ -20,7 +20,7 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) | 1x/year | June | October | 0-3 | Any | CA | - | Various research areas, 2 years of funding | 
 | [Beckman Institute Postdoctoral Fellowship Program](https://beckman.illinois.edu/research/fellowships-and-awards/postdoctoral-fellows-program) | - | - | November | 0-10 | Any | US | University of Illinois | Up to 3 years of funding |
 | [BBRF Young Investigator Grant](https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants) | 1x/year | February | March | 0+ | Any | US | - | Two years of funding |
-| [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | 1x/year | - | September | - | Any | US | - | LGBTQ+, professional development award |
+| [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | 1x/year | - | September | - | Any | US | - | Professional development fellowship for LGBTQ+ students and postdocs |
 | [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | Fall | December | - | Any | DE | Berlin | Mathematics, 2 years |
 | [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | October | January | 0-5 | Any | Any | - | Up to 5 years of funding | 
 | [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | - | February | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Mathematical, Physical Sciences and Engineering, possibly renewed under [AGEP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5474) |
