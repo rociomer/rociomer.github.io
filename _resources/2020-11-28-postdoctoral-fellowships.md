@@ -36,7 +36,7 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) | 2x year | March and September | 0-2 | Any | CH | ETH Zurich | - |
 | [Finnish Center for Artificial Intelligence](https://fcai.fi/open-application) | Rolling | - | - | Any | FI | Various | - |
 | [Ford Foundation Postdoctoral Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm) | 1x/year | December | - | US | US | - | One year of funding |
-| [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | September | - | US | Any | - | 2 - 12 month research stays |a
+| [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | September | - | US | Any | - | 2 - 12 month research stays |
 | [Fundación "La Caixa" Fellowships](https://fundacionlacaixa.org/es/programa-becas-la-caixa-informacion-general) | 1x/year | October | Any | ES or PT | - | Up to three years of funding | 
 | [Hanna H. Gray Fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Overview) | - | January | 0-1.5 | Any* | US | - | *Must have PhD from US institution | 
 | [Harvard Data Science Postdoctoral Fellows](https://datascience.harvard.edu/data-science-postdoctoral-fellows) | 1x/year | - | 0+ | Any | US | Harvard | - |
