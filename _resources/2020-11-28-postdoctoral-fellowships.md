@@ -23,6 +23,7 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [Ben Barres Fellowship](https://www.noglstp.org/programs-projects/ben-barres-fellowship/) | 1x/year | September | - | Any | US | - | Professional development fellowship for LGBTQ+ students and postdocs |
 | [BMS Dirichlet Postdoc Fellowship](https://www.math-berlin.de/media-press/news/bms-call-for-dirichlet-postdoc-fellowship-2020) | 1x/year | December | - | Any | DE | Berlin | Two years of funding for research in mathematics |
 | [Branco Weiss Fellowship](https://brancoweissfellowship.org/)  | 1x/year | January | 0-5 | Any | Any | - | Up to five years of funding | 
+| [Burroughs Wellcome Fund Funding Opportunities](https://www.bwfund.org/funding-opportunities/postdoctoral-fellows/) | Various | - | - | US or CA | US or CA | - | Various postdoctoral funding opportunities; also transition funding opportunities |
 | [California Alliance](https://www.california-alliance.org/postdocfellowships) | 1x/year | February | - | US | US | UC Berkeley, UCLA, Stanford, or Caltech | Program possibly renewed under [AGEP](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5474) |
 | [Carl Tryggers Stiftelse Postdoc Fellowship](https://carltryggersstiftelse.se/ansokningar/regler/) | 1x/year | May | - | Any | SE | - | - |
 | [CIFellows](https://cifellows2020.org/2020-application-cycle/) | Depends on program funding | - | 0-2 | Any | US | - | Two years of funding |  
@@ -35,7 +36,8 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) | 2x year | March and September | 0-2 | Any | CH | ETH Zurich | - |
 | [Finnish Center for Artificial Intelligence](https://fcai.fi/open-application) | Rolling | - | - | Any | FI | Various | - |
 | [Ford Foundation Postdoctoral Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm) | 1x/year | December | - | US | US | - | One year of funding |
-| [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | September | - | US | Any | - | 2 - 12 month research stays |
+| [Fullbright Scholar Program](https://www.cies.org/) | 1x/year | September | - | US | Any | - | 2 - 12 month research stays |a
+| [Fundación "La Caixa" Fellowships](https://fundacionlacaixa.org/es/programa-becas-la-caixa-informacion-general) | 1x/year | October | Any | ES or PT | - | Up to three years of funding | 
 | [Hanna H. Gray Fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Overview) | - | January | 0-1.5 | Any* | US | - | *Must have PhD from US institution | 
 | [Harvard Data Science Postdoctoral Fellows](https://datascience.harvard.edu/data-science-postdoctoral-fellows) | 1x/year | - | 0+ | Any | US | Harvard | - |
 | [Humboldt Research Fellowship](https://www.humboldt-foundation.de/web/pub_progsearch.main?p_lang=en&p_forschungsaufenthalt_id=1&p_promotions_jahr=2016&p_karrierestufe_id=1&p_nation=USA&p_button_search=Search&p_detail_text_id=771) | Rolling | - | 0-4 | Any | DE | - | - |
@@ -62,6 +64,9 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 | [President's Postdoctoral Fellowship Program](https://ppfp.ucop.edu/info/how-to-apply/index.html) | 1x/year | November | - | Any | US | Various institutions (including UC system) | If accepted, can apply for Chancellor's Postdoctoral Fellowship Program |
 | [Postdoc Mobility](http://www.snf.ch/en/funding/careers/postdoc-mobility/) | 2x/year | February and August | 0-3 | CH | CH | - | Two years of funding |
 | [Propel Postdoctoral Scholars Program](https://propel.stanford.edu/application-information/) | 1x/year | February | 0-1 | US | US | Stanford | Up to two years of funding |
+| [Royal Society University Research Fellowship](https://royalsociety.org/grants-schemes-awards/grants/university-research/) | 1x/year | September | 3-8 | Any | UK | - | Five years of funding with possible three years extension | 
+| [Sir Henry Dale Fellowships](https://wellcome.org/grant-funding/schemes/sir-henry-dale-fellowships) | 1x/year | September | Any* | Any* | UK | - | *Five years of funding for late stage postdocs who are leading a research program at a UK institution | 
+| [Sir Henry Wellcome Postdoctoral Fellowships](https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships) | 1x/year | September | Any | UK or IE | UK or IE | - | Up to four years of funding | 
 | [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/) | 1x/year | October | 0-3 | Any | US | Stanford | - |
 | [Schmidt Science Fellows](https://schmidtsciencefellows.org/overview/) | - | - | 0-1 | Any | Any*| - | *Can go anywhere in the world, but research must significantly differ from PhD |
 | [Swiss Government Excellence Scholarships for Foreign Scholars](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#1658819252) | 1x/year | October | - | Any | CH | - | - |
@@ -75,3 +80,4 @@ Postdoctoral fellowships which might be of interest to PhD students and postdocs
 Other good lists of resources:
 * Johns Hopkins University has published a nice [Excel spreadsheet](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) listing various postdoctoral fellowships
 * The Landry Lab has published various nice lists of resources on [their lab page](http://landrylab.com/fellowships/)
+* [This extensive list](https://asntech.github.io/postdoc-funding-schemes/) from ECRcentral, which includes nice search/sorting functions
