@@ -9,6 +9,7 @@ tags:
 Future faculty programs which might be of interest to PhD students and postdocs in STEM fields.
 
 | Fellowship Name | Application Deadline |  Eligibility |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|
 | [MIT Rising Stars](https://cheme.mit.edu/rising-stars/) | June | Female PhD students and postdocs who are preparing to submit faculty applications |
+| [NextProf Science Workshops](https://sites.lsa.umich.edu/nextprof-science/) | January | Advanced graduate students and postdocs |
 | [UChicago Future Faculty Conference](https://futurefaculty.psd.uchicago.edu/) | March | Postdocs with no previous affiliation to UChicago working in the chemical sciences or related fields |
