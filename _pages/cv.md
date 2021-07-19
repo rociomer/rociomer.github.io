@@ -31,6 +31,17 @@ redirect_from:
   * Property prediction
 * Nanoporous materials and drug discovery
 
+## Theses supervised
+* *2021* - Sara Romeo Atance & Juan Viguera Diez, '21 MSc Complex Adaptive Systems, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/302827)
+* *2021* - Julio Ponte Hernández, '21 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/302703)
+* *2020* - Tobias Rastemo, '20 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/301735)
+* *2018* - Rueih-Sheng (Ray) Fu, '18 BSc Chemical Engineering, *University of California, Berkeley*
+
+## Awards
+* *2021* - [Reviewer of the Month](https://www.nature.com/commschem/referees/outstanding-referees), Communications Chemistry
+* *2020* - [Outstanding Reviewer](https://publishingsupport.iopscience.iop.org/questions/machine-learning-science-technology-2020-reviewer-awards/), Machine Learning: Science and Technology, IOP Publishing
+* *2015* - [Outstanding Graduate Student Instructor](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2015/), UC Berkeley
+
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
