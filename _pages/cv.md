@@ -18,7 +18,8 @@ redirect_from:
   * Molecular AI team, AstraZeneca
 
 * *09/2013 – 08/2018* \| Research assistant
-  * MolSim group, UC Berkeley & LSMO group, EPFL
+  * MolSim group, UC Berkeley
+  * LSMO group, EPFL
 
 * *04/2011 – 07/2013* \| Undergraduate research assistant
   * Gray group, Caltech
