@@ -13,7 +13,7 @@ I am currently a postdoc in the Molecular AI group at AstraZeneca (since October
 I can be reached at mercadorocio137 [at] gmail [dot] com.
 
 # News
-* *26-07-2021* - My masters student Sara from Chalmers presented her thesis work on de novo molecular design at the ICML RL4RealLife Workshop. Check out our pre-print [here](https://doi.org/10.33774/chemrxiv-2021-9w3tc).
+* *26-07-2021* - Our MSc student Sara Romeo Atance (Chalmers, Complex Adaptive Systems) presented her thesis work on *de novo* molecular design at the ICML RL4RealLife Workshop. Check out our pre-print [here](https://doi.org/10.33774/chemrxiv-2021-9w3tc).
 * *01-07-2021* - Our pre-print on graph traversal algorithms for graph-based deep molecular generation is now available on the ChemRxiv [here](https://chemrxiv.org/engage/chemrxiv/article-details/60dc7b3a9986aa5ca753e3a6). Check it out to see how you can use GraphINVENT to generate not only drug-like molecules, but also natural products, and why you should use BFS over DFS.
 * *20-05-2021* - Our benchmarking study on chemical space coverage of deep molecular generative models has been accepted in JCIM. Read the paper [here](https://doi.org/10.1021/acs.jcim.0c01328).
 * *17-01-2021* - I have updated the [resources](https://rociomer.github.io/resources/) tab with various lists of largely academic resources (e.g. fellowships) for students and postdocs working in STEM fields. Please share with anyone who might benefit!
