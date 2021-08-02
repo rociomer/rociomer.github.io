@@ -14,7 +14,10 @@ redirect_from:
 * **2013** \| BSc in Chemistry, California Institute of Technology
 
 ## Research experience
-* *10/2018 – present* \| Postdoctoral researcher
+* *08/2021 – present* \| Postdoctoral associate
+  * Coley group, MIT
+
+* *10/2018 – 07/2021* \| Postdoctoral researcher
   * Molecular AI team, AstraZeneca
 
 * *09/2013 – 08/2018* \| Research assistant
