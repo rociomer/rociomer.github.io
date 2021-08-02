@@ -19,4 +19,4 @@ I can be reached at rociomer [at] mit [dot] edu.
 * *17-01-2021* - I have updated the [resources](https://rociomer.github.io/resources/) tab with various lists of largely academic resources (e.g. fellowships) for students and postdocs working in STEM fields. Please share with anyone who might benefit!
 * *09-12-2020* - I gave a talk at the ML4Molecules Workshop at NeurIPS 2020. You can view the talk [here](https://slideslive.com/38938184/applying-graph-neural-networks-to-molecular-design).
 
-Last updated *19-07-2021*.
+Last updated *02-08-2021*.
