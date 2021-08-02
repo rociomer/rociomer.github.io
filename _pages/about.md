@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc in the Coley group at MIT. Previously, I completed an industrial postdoc in the Molecular AI group at AstraZeneca (2018-2021), where I worked on the development of deep generative models for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at UC Berkeley and EPFL. I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
+I am currently a postdoc in the Coley group at MIT. Previously, I completed an industrial postdoc in the Molecular AI group at AstraZeneca, where I worked on the development of deep generative models for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at UC Berkeley and EPFL. I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
 
 I can be reached at rociomer [at] mit [dot] edu.
 
