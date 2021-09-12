@@ -11,6 +11,7 @@ Future faculty programs which might be of interest to PhD students and postdocs 
 | Fellowship Name | Application Deadline |  Eligibility |
 |---|---|---|
 | [ACS Postdoc to Faculty Workshop](https://www.acs.org/content/acs/en/education/students/graduate/gettingready/academiccareers/postoral-workshop-for-prospective-chemistry-faculty.html) | April | Postdocs interested in faculty positions in the chemical sciences |
+| [University of Washington DYSS](https://depts.washington.edu/dyss/) | May | Late-stage PhD students and postdocs who have not yet accepted faculty positions |
 | [MIT Rising Stars](https://cheme.mit.edu/rising-stars/) | June | Female PhD students and postdocs who are preparing to submit faculty applications |
 | [NextProf Science Workshops](https://sites.lsa.umich.edu/nextprof-science/) | January | Advanced graduate students and postdocs |
 | [Path of Professorship](https://oge.mit.edu/development/pop/) | October | Female graduate students and postdocs |
