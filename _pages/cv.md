@@ -10,27 +10,24 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD in Chemistry, University of California, Berkeley, **2018**
-* BSc in Chemistry, California Institute of Technology, **2013**
+* PhD in Chemistry, *University of California, Berkeley*, **2018**
+* BSc in Chemistry, *California Institute of Technology*, **2013**
 
 ## Research experience
 * **Postdoctoral associate**, *Aug 2021 – present*
-
-    Coley group, MIT
+  * Coley group, MIT
 
 * **Postdoctoral researcher**, *Oct 2018 –  Jul 2021*
-
-    Molecular AI team, AstraZeneca
+  * Molecular AI team, AstraZeneca
 
 * **Research assistant**, *Sep 2013 – Aug 2018*
-
-    MolSim group, UC Berkeley
+  * MolSim group, UC Berkeley
     
-    LSMO group, EPFL
+  * LSMO group, EPFL
 
 * **Undergraduate research assistant**, *Apr 2011 – Jul 2013*
 
-    Gray group, Caltech
+  * Gray group, Caltech
   
 ## Research areas
 * AI-driven molecular and biopharmaceutical design
