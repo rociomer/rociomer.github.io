@@ -20,13 +20,11 @@ redirect_from:
 * **Postdoctoral researcher**, *Oct 2018 –  Jul 2021*
   * Molecular AI team, AstraZeneca
 
-* **Research assistant**, *Sep 2013 – Aug 2018*
+* **PhD researcher**, *Sep 2013 – Aug 2018*
   * MolSim group, UC Berkeley
-    
   * LSMO group, EPFL
 
-* **Undergraduate research assistant**, *Apr 2011 – Jul 2013*
-
+* **Undergraduate researcher**, *Apr 2011 – Jul 2013*
   * Gray group, Caltech
   
 ## Research areas
