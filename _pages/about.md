@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoc in the [Coley group](https://coley.mit.edu/) at MIT. Previously, I was a postdoc in the [Molecular AI team](https://github.com/MolecularAI) at AstraZeneca, where I worked on the development of deep generative models for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at [UC Berkeley](http://www.cchem.berkeley.edu/molsim/) and [EPFL](https://www.epfl.ch/labs/lsmo/). I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
 
-My research expertise lies in data-driven molecular design, at the interface of computer science and chemistry. I am passionate about the development of computational tools, such as deep generative models, which can be used to enhance the process of pharmaceutical discovery.
+My research expertise lies in *data-driven molecular design*, at the interface of computer science and chemistry. I am passionate about the development of computational tools which can be used to enhance the process of *pharmaceutical drug discovery*, such as deep molecular generative models and molecular optimization methods. 
 
 I can be reached at rociomer [at] mit [dot] edu.
 
