@@ -13,7 +13,7 @@ I am currently a postdoc in the [Coley group](https://coley.mit.edu/) at MIT. Pr
 I can be reached at rociomer [at] mit [dot] edu.
 
 # News
-* *24-10-2021* - Check out our most recent [preprint](https://arxiv.org/abs/2110.06389), where we present a generative model for bottom-up synthesis planning and synthesizability-constrained molecular design! The code and data used for this work is also available [on GitHub](https://github.com/wenhao-gao/SynNet). 
+* *24-10-2021* - Check out our most recent [pre-print](https://arxiv.org/abs/2110.06389), where we present a generative model for bottom-up synthesis planning and synthesizability-constrained molecular design! The code and data used for this work is also available [on GitHub](https://github.com/wenhao-gao/SynNet). 
 * *23-09-2021* - I recently presented at the Graph Machine Learning in Industry Workshop hosted by Criteo AI Lab. You can view a recording of the livestreamed talks [here](https://youtu.be/bLN1V5fZD2g) (my talk starts at ~2:41:00).
 * *20-09-2021* - I am presenting recent work on deep molecular graph generation at [LatinXChem](https://www.latinxchem.org/) 2021 (all on Twitter)! You can see a high-quality version of my poster [here](https://youtu.be/Qw8nLMJ9Ptg).
 * *26-07-2021* - Our MSc student Sara Romeo Atance (Chalmers, Complex Adaptive Systems '21) presented her thesis work on *de novo* molecular design at the ICML RL4RealLife Workshop. Check out our pre-print [here](https://doi.org/10.33774/chemrxiv-2021-9w3tc).
