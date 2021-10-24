@@ -7,7 +7,7 @@ tags:
   - graph neural networks
   - drug discovery
 ---
-GraphINVENT is a platform for graph-based molecular generation using graph neural networks. 
+GraphINVENT is a platform for graph-based molecular generation using graph neural networks. It can be used for small molecule *de novo* molecular design and molecular optimization using reinforcement learning.
 
 ## Description
 GraphINVENT uses a tiered deep neural network architecture to probabilistically generate new molecules a single bond at a time. All models implemented in GraphINVENT can quickly learn to build molecules resembling training set molecules without any explicit programming of chemical rules. The models have been benchmarked using the MOSES distribution-based metrics, showing how the best GraphINVENT model compares well with state-of-the-art generative models.
