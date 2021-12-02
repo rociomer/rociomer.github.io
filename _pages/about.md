@@ -16,7 +16,7 @@ I can be reached at rociomer [at] mit [dot] edu.
 
 # News
 * *13-11-2021* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
-* *10-11-2021* - Our paper on exploring graph traversal algorithms during graph-based molecular generation has just been accepted in JCIM. You can read the paper [here](https://doi.org/10.1021/acs.jcim.1c00777).
+* *10-11-2021* - Our paper on exploring graph traversal algorithms in graph-based molecular generation has just been accepted in JCIM. You can read the paper [here](https://doi.org/10.1021/acs.jcim.1c00777).
 * *24-10-2021* - Check out our most recent [pre-print](https://arxiv.org/abs/2110.06389), where we present a generative model for bottom-up synthesis planning and synthesizability-constrained molecular design! The code and data used for this work is also available [on GitHub](https://github.com/wenhao-gao/SynNet). 
 * *23-09-2021* - I recently presented at the Graph Machine Learning in Industry Workshop hosted by Criteo AI Lab. You can view a recording of the livestreamed talks [here](https://youtu.be/bLN1V5fZD2g) (my talk starts at ~2:41:00).
 * *20-09-2021* - I am presenting recent work on deep molecular graph generation at [LatinXChem](https://www.latinxchem.org/) 2021 (all on Twitter)! You can see a high-quality version of my poster [here](https://youtu.be/Qw8nLMJ9Ptg).
