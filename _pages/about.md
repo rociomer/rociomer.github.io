@@ -24,4 +24,4 @@ I can be reached at rociomer [at] mit [dot] edu.
 
 Last updated *10-02-2022*.
 
-[how to pronounce my name](https://youtu.be/s7A2uDrmjgY)
+In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
