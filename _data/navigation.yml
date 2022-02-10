@@ -14,9 +14,9 @@ main:
         
   - title: "Code"
     url: /code/
-        
-  - title: "News archive"
-    url: /news_archive/
     
   - title: "CV"
     url: /cv/
+        
+  - title: "News archive"
+    url: /news_archive/
