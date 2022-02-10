@@ -21,9 +21,7 @@ I can be reached at rociomer [at] mit [dot] edu.
 * *13-13-2021* - Juan recently presented his work on a transferable Boltzmann generator for molecular conformer generation at the [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/) (poster #7). Check out his paper [here](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ).
 * *13-11-2021* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
 * *10-11-2021* - Our paper on exploring graph traversal algorithms in graph-based molecular generation has just been accepted in JCIM. You can read the paper [here](https://doi.org/10.1021/acs.jcim.1c00777).
-* *24-10-2021* - Check out our most recent [pre-print](https://arxiv.org/abs/2110.06389), where we present a generative model for bottom-up synthesis planning and synthesizability-constrained molecular design! The code and data used for this work is also available [on GitHub](https://github.com/wenhao-gao/SynNet). 
-* *23-09-2021* - I recently presented at the Graph Machine Learning in Industry Workshop hosted by Criteo AI Lab. You can view a recording of the livestreamed talks [here](https://youtu.be/bLN1V5fZD2g) (my talk starts at ~2:41:00).
 
 Last updated *10-02-2022*.
 
-How to pronounce my name: [link](https://youtu.be/s7A2uDrmjgY)
+[how to pronounce my name](https://youtu.be/s7A2uDrmjgY)
