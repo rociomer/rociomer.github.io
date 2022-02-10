@@ -161,6 +161,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
+  news_archive:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,6 +230,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _news_archive
+  - scope:
+      path: ""
+      type: news_archive
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
 
 # Sass/SCSS
 sass:

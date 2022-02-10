@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "News archive"
+permalink: /news_archive/
+author_profile: true
+---
+
+{% include base_path %}
+
+## News archive
+* *20-09-2021* - I am presenting recent work on deep molecular graph generation at [LatinXChem](https://www.latinxchem.org/) 2021 (all on Twitter)! You can see a high-quality version of my poster [here](https://youtu.be/Qw8nLMJ9Ptg).
+* *26-07-2021* - Our MSc student Sara Romeo Atance (Chalmers, Complex Adaptive Systems '21) presented her thesis work on *de novo* molecular design at the ICML RL4RealLife Workshop. Check out our pre-print [here](https://doi.org/10.33774/chemrxiv-2021-9w3tc).
+* *01-07-2021* - Our pre-print on graph traversal algorithms for graph-based deep molecular generation is now available on the ChemRxiv [here](https://chemrxiv.org/engage/chemrxiv/article-details/60dc7b3a9986aa5ca753e3a6). Check it out to see how you can use GraphINVENT to generate not only drug-like molecules, but also natural products, and why you should use BFS over DFS.
+* *20-05-2021* - Our benchmarking study on chemical space coverage of deep molecular generative models has been accepted in JCIM. Read the paper [here](https://doi.org/10.1021/acs.jcim.0c01328).
+* *17-01-2021* - I have updated the [resources](https://rociomer.github.io/resources/) tab with various lists of largely academic resources (e.g. fellowships) for students and postdocs working in STEM fields. Please share with anyone who might benefit!
+* *09-12-2020* - I gave a talk at the ML4Molecules Workshop at NeurIPS 2020. You can view the talk [here](https://slideslive.com/38938184/applying-graph-neural-networks-to-molecular-design).
+* *01-12-2020* - Our technical note on building molecular graph generative models has been accepted [in AAIL](https://doi.org/10.1002/ail2.18)!
+* *01-12-2020* - Our paper *Graph Networks for Molecular Design* has been accepted [in MLST](https://doi.org/10.1088/2632-2153/abcf91)! 
+* *27-11-2020* - I recently presented at the 2020 GAIA (Gothenburg AI Alliance) conference! Check out the recorded conference stream [here](https://www.youtube.com/watch?v=ljhtfrtuNqw&feature=youtu.be).
+* *16-11-2020* - We just published a new [preprint](https://chemrxiv.org/articles/preprint/Comparative_Study_of_Deep_Generative_Models_on_Chemical_Space_Coverage/13234289) on the ChemRxiv where we compare chemical space coverage, including functional group and ring system coverage, in the following deep generative models: CharRNN, REINVENT, AAE, VAE, ORGAN, LatentGAN, and GraphINVENT.
+* *08-11-2020* -  Check out the [guest blog post](http://www.cheminformania.com/using-graphinvent-to-generate-novel-drd2-actives/) I wrote for Cheminformania on using GraphINVENT to generate novel DRD2 actives!
