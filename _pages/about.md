@@ -16,7 +16,7 @@ I can be reached at rociomer [at] mit [dot] edu.
 
 # News
 * *08-02-2022* - I recently did a live Q&A on the artificial intelligence of drug discovery, as well as my career and what it's like to be a scientist working in my field, for Skype A Scientist LIVE. You can check out a recording of the event [here](https://youtu.be/GKOpwa-2XqQ).
-* *03-02-2022* - I am co-editing a collection on "Geometric Deep Learning and the Physical Sciences" for Frontiers in AI & Big Data. We are currently [welcoming submissions](https://www.frontiersin.org/research-topics/29954/geometric-deep-learning-and-the-physical-sciences) for manuscripts in this research topic (until April 30, 2022)!
+* *03-02-2022* - I am co-editing a collection on "Geometric Deep Learning and the Physical Sciences" for Frontiers in AI & Big Data. You are welcome to [submit manuscripts](https://www.frontiersin.org/research-topics/29954/geometric-deep-learning-and-the-physical-sciences) on this research topic until April 30, 2022!
 * *22-01-2022* - Our conference paper on synthesizability-constrained molecular generation was accepted at ICLR 2022. Check out the paper and discussion [here](https://openreview.net/forum?id=FRxhHdnxt1).
 * *13-12-2021* - Juan recently presented his work on a transferable Boltzmann generator for molecular conformer generation at the [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/) (poster #7). Check out his paper [here](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ).
 * *13-11-2021* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
