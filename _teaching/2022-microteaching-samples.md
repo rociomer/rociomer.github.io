@@ -1,9 +1,9 @@
 ---
 title: "Microteaching samples"
 collection: teaching
-type: "Undergraduate and masters courses"
+type: "Undergraduate- and masters-level courses"
 permalink: /teaching/2022-microteaching-samples
-venue: "various institutes"
+venue: "various institutions"
 date: 2022-01-01
 location: "Cambridge, US"
 ---
@@ -19,4 +19,4 @@ I provide the slides for the various lectures I gave below. All lectures were gi
 * *12-01-2022* - Lecture on "The Structure of DNA and its Role as a Cellular Data Storage Device" for the SysBio division (BioE) and DSAI division (CSE) at Chalmers - <a href="../files/20220112_ChalmersDDLSMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
 
 ### Example from Kaufman Teaching Certificate Program (KTCP)
-* *20-04-2022* - KTCP lecture on "Graphs as Molecular Representations" - <a href="../files/20220420_KTCPMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
+* *20-04-2022* - KTCP lecture on "Graphs as Molecular Representations" at MIT - <a href="../files/20220420_KTCPMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
