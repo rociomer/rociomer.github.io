@@ -23,4 +23,5 @@ Graduate fellowships which might be of interest to undergraduates and PhD studen
 | [NDSEG](https://ndseg.sysplus.com/NDSEG/about/) | 1x/year | December | US | US | - | Three years of funding |
 | [NSF GRFP](https://www.nsfgrfp.org/) | 1x/year | October* | US | US | - | *Specific deadline varies by discipline; three years of funding |
 | [NSF GRFP GROW](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876) | 1x/year | December | US* | GROW partner countries | - | *Must have GRFP already; supports international research stays |
+| [Science & SciLifeLab Prize for Young Scientists](https://scienceprize.scilifelab.se/about-young-scientist-prize/) | 1x/year | July | any | SE | - | Eligible entrants must have been awarded their doctoral degree in the previous calendar year, and the thesis should be in the life sciences |
 | [University Corporation for Atmospheric Research (UCAR) Next Generation Fellowships](https://www.ucar.edu/opportunities/fellowships/ucar-next-generation-fellowships) | Various | - | US | US | Boulder, CO or Washington D.C. | Professional development fellowships in Earth System Science, D&I, and Public Policy |
