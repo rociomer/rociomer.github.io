@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Cambridge, US"
 ---
 
-During the winter/spring of 2022 I gave various microteaching lectures (10-20 minute teaching samples) as part of both my teaching training and faculty job search. The topics of these lectures range from machine learning to biology and chemistry, and are all introductory in nature. 
+During the winter/spring of 2022 I gave various microteaching lectures (10-20 minute teaching samples) as part of both my teaching training and faculty job interviews. The topics of these lectures ranged from machine learning to biology and chemistry, and were all introductory in nature. 
 
 I provide the slides for the various lectures I gave below. All lectures were given remotely over Zoom.
 
