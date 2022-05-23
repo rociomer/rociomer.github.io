@@ -13,4 +13,4 @@ During the winter/spring of 2022 I gave various microteaching lectures (teaching
 I provide the slides for these various lectures below.
 
 ## Microteaching samples (slides)
-* Test file <a href="../files/test.txt.">Download the test file (.txt)</a>
+* Test file <a href="../files/test.txt">Download the test file (.txt)</a>
