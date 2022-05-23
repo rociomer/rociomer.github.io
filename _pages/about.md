@@ -21,7 +21,6 @@ I can be reached at rociomer [at] mit [dot] edu.
 * *22-01-2022* - Our conference paper on synthesizability-constrained molecular generation was accepted at ICLR 2022. Check out the paper and discussion [here](https://openreview.net/forum?id=FRxhHdnxt1).
 * *13-12-2021* - Juan recently presented his work on a transferable Boltzmann generator for molecular conformer generation at the [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/) (poster #7). Check out his paper [here](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ).
 * *13-11-2021* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
-* *10-11-2021* - Our paper on exploring graph traversal algorithms in graph-based molecular generation has just been accepted in JCIM. You can read the paper [here](https://doi.org/10.1021/acs.jcim.1c00777).
 
 Last updated *10-02-2022*.
 

@@ -8,4 +8,4 @@ date: 2013-08-01
 location: "Berkeley, US"
 ---
 
-CHEM 112A is an organic chemistry course for 2nd year chemistry students at UC Berkeley. Fall term 2013, the course was organized and taught by Prof. Anne Baranger. I was a graduate student instructor (GSI) for this course (twice).
+CHEM 112A is an organic chemistry course for 2nd year chemistry students at UC Berkeley. Fall term 2013, the course was organized and taught by Prof. Anne Baranger. I was a graduate student instructor (GSI) for this course (twice, see second instance above).
