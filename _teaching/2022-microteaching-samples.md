@@ -8,9 +8,15 @@ date: 2022-01-01
 location: "Cambridge, US"
 ---
 
-During the winter/spring of 2022 I gave various microteaching lectures (teaching samples) as part of both my teaching training and faculty job search. The topics of these lectures range from machine learning to biology and chemistry, and are all introductory in nature. 
+During the winter/spring of 2022 I gave various microteaching lectures (10-20 minute teaching samples) as part of both my teaching training and faculty job search. The topics of these lectures range from machine learning to biology and chemistry, and are all introductory in nature. 
 
-I provide the slides for these various lectures below.
+I provide the slides for the various lectures I gave below. All lectures were given remotely over Zoom.
 
 ## Microteaching samples (slides)
-* Test file <a href="../files/test.txt">Download the test file (.txt)</a>
+### Examples from faculty job search test lectures
+* *20-04-2022* - Lecture on "Introduction to Machine Learning" for the Data Science and AI (DSAI) division in the Computer Science and Engineering (CSE) Department at Chalmers - <a href="../files/20220420_ChalmersWASPMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
+* *10-03-2022* - Lecture on "Basic Principles of Cellular Functions: Metabolism" for the Biophysics division in the Applied Physics Department at KTH - <a href="../files/20220310_KTHDDLSMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
+* *12-01-2022* - Lecture on "The Structure of DNA and its Role as a Cellular Data Storage Device" for the SysBio division (BioE) and DSAI division (CSE) at Chalmers - <a href="../files/20220112_ChalmersDDLSMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
+
+### Example from Kaufman Teaching Certificate Program (KTCP)
+* *20-04-2022* - KTCP lecture on "Graphs as Molecular Representations" - <a href="../files/20220420_KTCPMicroteachingSample_Mercado.pptx">right-click to download the file (.pptx)</a>
