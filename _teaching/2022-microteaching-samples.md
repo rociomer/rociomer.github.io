@@ -12,7 +12,6 @@ During the winter/spring of 2022 I gave various microteaching lectures (10-20 mi
 
 I provide the slides for the various lectures I gave below. All lectures were given remotely over Zoom.
 
-## Microteaching samples (slides)
 ### Faculty interview test lectures
 * *20-04-2022* - Lecture on *Introduction to Machine Learning* for the Data Science and AI (DSAI) division in the Computer Science and Engineering (CSE) Department at Chalmers - <a href="../files/20220420_ChalmersWASPMicroteachingSample_Mercado.pptx">download slides (.pptx)</a>
 * *10-03-2022* - Lecture on *Basic Principles of Cellular Functions: Metabolism* for the Biophysics division in the Applied Physics Department at KTH - <a href="../files/20220310_KTHDDLSMicroteachingSample_Mercado.pptx">download slides (.pptx)</a>
