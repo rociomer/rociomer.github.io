@@ -17,7 +17,7 @@ I will be recruiting for various positions in my new group in Gothenburg this co
 I can be reached at rociomer [at] mit [dot] edu.
 
 # News
-* *22-06-2022* - Excited to share that I’ll be joining the faculty in the Data Science & AI division at Chalmers as an assistant professor in Computer Science & Engineering starting January 2023, where I will be starting my own research group in data-driven molecular design!
+* *22-06-2022* - Excited to share that I’ll be joining the faculty in the Data Science & AI division at Chalmers as an assistant professor starting January 2023, where I will be starting my own research group in data-driven molecular design!
 * *29-04-2022* - Our recent work on synthesizable molecular design was [featured](https://news.mit.edu/2022/ai-molecules-new-drugs-0426) on MIT News.
 * *08-02-2022* - I recently did a live Q&A on the artificial intelligence of drug discovery, as well as my career and what it's like to be a scientist working in my field, for Skype A Scientist LIVE. You can check out a recording of the event [here](https://youtu.be/GKOpwa-2XqQ).
 * *03-02-2022* - I am co-editing a collection on "Geometric Deep Learning and the Physical Sciences" for Frontiers in AI & Big Data. You are welcome to [submit manuscripts](https://www.frontiersin.org/research-topics/29954/geometric-deep-learning-and-the-physical-sciences) on this research topic until April 30, 2022!
