@@ -12,7 +12,7 @@ I am currently a postdoc in the [Coley group](https://coley.mit.edu/) at MIT. Pr
 
 Next year, I will be joining the faculty in the [Data Science & AI]([https://www.chalmers.se/en/departments/cse/research/dsai/Pages/default.aspx](https://www.chalmers.se/en/departments/cse/research/dsai/Pages/default.aspx)) division at Chalmers as an assistant professor in the [Computer Science & Engineering]([https://www.chalmers.se/en/departments/cse/Pages/default.aspx](https://www.chalmers.se/en/departments/cse/Pages/default.aspx)) department, where I will be starting my own research group in data-driven molecular design.
 
-I will be recruiting for various positions in my new group in Gothenburg this coming winter. If you are a student/postdoc interested in doing research at the interface of machine learning and the life sciences in a vibrant and supportive environment, feel free to reach out via email to learn more about upcoming opportunities in my group and at [Chalmers](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx)!
+I will be recruiting for various positions in my new group in Gothenburg this coming winter. If you are a student/postdoc interested in doing research at the interface of machine learning and the life sciences in a vibrant and supportive environment, feel free to reach out via email to learn more about upcoming opportunities in my group and [at Chalmers](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx)!
 
 I can be reached at rociomer [at] mit [dot] edu.
 
