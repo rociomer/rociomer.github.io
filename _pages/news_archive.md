@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## News archive
+* *08-02-2022* - I recently did a live Q&A on the artificial intelligence of drug discovery, as well as my career and what it's like to be a scientist working in my field, for Skype A Scientist LIVE. You can check out a recording of the event [here](https://youtu.be/GKOpwa-2XqQ).
 * *10-11-2021* - Our paper on exploring graph traversal algorithms in graph-based molecular generation has just been accepted in JCIM. You can read the paper [here](https://doi.org/10.1021/acs.jcim.1c00777).
 * *24-10-2021* - Check out our most recent [pre-print](https://arxiv.org/abs/2110.06389), where we present a generative model for bottom-up synthesis planning and synthesizability-constrained molecular design! The code and data used for this work is also available [on GitHub](https://github.com/wenhao-gao/SynNet). 
 * *23-09-2021* - I recently presented at the Graph Machine Learning in Industry Workshop hosted by Criteo AI Lab. You can view a recording of the livestreamed talks [here](https://youtu.be/bLN1V5fZD2g) (my talk starts at ~2:41:00).
