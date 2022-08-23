@@ -14,7 +14,7 @@ Next year, I will be joining the faculty in the [Data Science & AI](https://www.
 
 I will be recruiting for various positions in my new group in [Gothenburg](https://www.goteborg.com/en) this coming winter. If you are a student/postdoc interested in doing research at the interface of machine learning and the life sciences in a vibrant and supportive environment, feel free to reach out via email to learn more about upcoming opportunities in my group and [at Chalmers](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx)!
 
-I can be reached at rociomer [at] mit [dot] edu.
+I can be reached at rociomer [at] mit [dot] edu or rocom [at] chalmers [dot] se.
 
 # News
 * *22-06-2022* - Excited to share that I’ll be joining the faculty in the Data Science & AI division at Chalmers as an assistant professor starting January 2023, where I will be starting my own research group in data-driven molecular design!
