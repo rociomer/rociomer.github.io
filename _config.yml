@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rocío Mercado Oropeza"
+title                    : "Rocío Mercado"
 title_separator          : "-"
-name                     : &name "Rocío Mercado Oropeza"
+name                     : &name "Rocío Mercado"
 description              : &description "my personal site"
 url                      : https://rociomer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -71,7 +71,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rocío Mercado Oropeza"
+  name             : "Rocío Mercado"
   avatar           : "profile-pic.jpg"
   bio              : "AI-driven molecular engineering"
   location         : 
