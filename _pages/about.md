@@ -17,6 +17,7 @@ I will be recruiting for various positions in my new group in [Gothenburg](https
 I can be reached at rociomer [at] mit [dot] edu or rocom [at] chalmers [dot] se.
 
 # News
+* *12-10-2022* - [New version of SynNet](https://github.com/wenhao-gao/SynNet) is out. Thanks to Christian for all the improvements and bug fixes!
 * *11-10-2022* - Our students' article on reinforcement learning for graph-based molecular design is just accepted at JCIM. Check out the article [here](https://doi.org/10.1021/acs.jcim.2c00838). Congrats, Sara and Juan!
 * *11-10-2022* - I've advertised the first MSc thesis projects in my group at Chalmers ([link to project descriptions](https://masterthesis.cms.chalmers.se/supervisor/rocio-mercado)). The projects will be joint with teams at AstraZeneca. If you are a Chalmers MSc student in any department and interested in learning more about either of these projects, please reach out! 
 * *22-06-2022* - Excited to share that I’ll be joining the faculty in the Data Science & AI division at Chalmers as an assistant professor starting January 2023, where I will be starting my own research group in data-driven molecular design!
