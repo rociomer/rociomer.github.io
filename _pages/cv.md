@@ -30,8 +30,9 @@ redirect_from:
 ## Research areas
 * AI-guided molecular engineering
 * Deep molecular generative models
+* Multi-target therapeutic modalities
+* Targeted protein degradation
 * Low-data molecular property prediction and optimization
-* Multi-target therapeutic modalities and targeted protein degraders
 * Atomistic simulations
 * Open-source software development
 
