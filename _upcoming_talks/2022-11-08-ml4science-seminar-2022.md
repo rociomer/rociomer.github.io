@@ -8,4 +8,4 @@ date: 2022-11-08
 location: "Virtual"
 ---
 
-ML for Science Seminar Series at EPFL 
+Machine Learning for Science Seminar Series at EPFL 
