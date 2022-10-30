@@ -28,9 +28,10 @@ redirect_from:
   * Gray group, Caltech
   
 ## Research areas
-* AI-driven molecular and biopharmaceutical design
+* AI-guided molecular engineering
 * Deep molecular generative models
 * Low-data molecular property prediction and optimization
+* Multi-target therapeutic modalities and targeted protein degraders
 * Atomistic simulations
 * Open-source software development
 
