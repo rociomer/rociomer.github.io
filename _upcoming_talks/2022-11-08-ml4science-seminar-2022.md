@@ -8,4 +8,6 @@ date: 2022-11-08
 location: "Virtual"
 ---
 
+[event page](https://memento.epfl.ch/event/machine-learning-in-chemistry-and-beyond-che-65-12/)
+
 Machine Learning for Science Seminar Series at EPFL 
