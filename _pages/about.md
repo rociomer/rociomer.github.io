@@ -17,6 +17,7 @@ I will be recruiting for various positions in my new group in [Gothenburg](https
 I can be reached at rociomer [at] mit [dot] edu or rocom [at] chalmers [dot] se.
 
 # News
+* *06-11-2022* - Our [paper](https://openreview.net/pdf?id=pGyp4o9gky0) on graph-based de novo PROTAC design was accepted at the AI4Science NeurIPS 2022 Workshop. Congrats to our wonderful UROP student, Divya, who led this work!
 * *12-10-2022* - [New version of SynNet](https://github.com/wenhao-gao/SynNet) is out. Thanks to Christian for all the improvements and bug fixes!
 * *11-10-2022* - Our students' article on reinforcement learning for graph-based molecular design is just accepted at JCIM. Check out the article [here](https://doi.org/10.1021/acs.jcim.2c00838). Congrats, Sara and Juan!
 * *11-10-2022* - I've advertised the first MSc thesis projects in my group at Chalmers ([link to project descriptions](https://masterthesis.cms.chalmers.se/supervisor/rocio-mercado)). The projects will be joint with teams at AstraZeneca. If you are a Chalmers MSc student in any department and interested in learning more about either of these projects, please reach out! 
@@ -26,6 +27,6 @@ I can be reached at rociomer [at] mit [dot] edu or rocom [at] chalmers [dot] se.
 * *13-12-2021* - Juan recently presented his work on a transferable Boltzmann generator for molecular conformer generation at the [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/) (poster #7). Check out his paper [here](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ).
 * *13-11-2021* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
 
-Last updated *30-10-2022*.
+Last updated *06-11-2022*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
