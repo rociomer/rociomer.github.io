@@ -15,6 +15,7 @@ Starting Jan. 2023, I will be joining the faculty in the [Data Science & AI](htt
 I can be reached at rociomer [at] mit [dot] edu or rocom [at] chalmers [dot] se.
 
 # News
+* *08-11-2022* - You can download slides for my recent talk in the EPFL ChE-651 seminar, "Exploring new frontiers in drug discovery using deep generative models", <a href="../files/20221108_EPFL-ML4Chem_Mercado.pptx">here (.pptx)</a>.
 * *07-11-2022* - Our [group website](https://ailab.bio/) is up and running! Though we are still in the process of updating a few pages, feel free to start browsing our [research interests](https://ailab.bio/research-themes) and [open positions](https://ailab.bio/join-us).
 * *06-11-2022* - Our [paper](https://openreview.net/pdf?id=pGyp4o9gky0) on graph-based de novo PROTAC design was accepted at the AI4Science NeurIPS 2022 Workshop. Congrats to our wonderful UROP student, Divya, who led this work!
 * *12-10-2022* - [New version of SynNet](https://github.com/wenhao-gao/SynNet) is out. Thanks to Christian for all the improvements and bug fixes!
