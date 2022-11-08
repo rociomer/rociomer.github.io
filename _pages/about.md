@@ -27,6 +27,6 @@ I can be reached at rociomer [at] mit [dot] edu or rocom [at] chalmers [dot] se.
 * *13-12-2021* - Juan recently presented his work on a transferable Boltzmann generator for molecular conformer generation at the [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/) (poster #7). Check out his paper [here](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ).
 * *13-11-2021* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
 
-Last updated *06-11-2022*.
+Last updated *08-11-2022*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
