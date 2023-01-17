@@ -14,7 +14,10 @@ redirect_from:
 * BSc in Chemistry, *California Institute of Technology*, **2013**
 
 ## Research experience
-* **Postdoctoral associate**, *Aug 2021 – present*
+* **Assistant professor**, *Jan 2023 - present*
+  * AIBE, Chalmers University of Technology
+
+* **Postdoctoral associate**, *Aug 2021 – Dec 2022*
   * Coley group, MIT
 
 * **Postdoctoral researcher**, *Oct 2018 –  Jul 2021*
