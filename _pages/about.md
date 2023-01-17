@@ -14,23 +14,18 @@ I am recruiting for various positions in my new group in [Gothenburg](https://ww
 
 Previously, I was a postdoctoral associate in the [Coley group](https://coley.mit.edu/) at MIT, as well as an industrial postdoc in the [Molecular AI team](https://github.com/MolecularAI) at AstraZeneca. Throughout my postdoctoral career, I worked on the development of deep generative models for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at [UC Berkeley](http://www.cchem.berkeley.edu/molsim/) and [EPFL](https://www.epfl.ch/labs/lsmo/). I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
 
+I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc. In my spare time, I enjoy the typical academic hobbies (e.g., hiking, reading, etc.) as well as jazzy dances like tap and lindy hop. I live with my dog, Cloé, and my cat, Harvey.
+
 I can be reached at rocom [at] chalmers [dot] se.
 
 # News
-* *23-01-09* - First official day as assistant professor at Chalmers! 
+* *23-01-09* - First official day as an assistant professor at Chalmers! 
 * *22-11-11* - I recently did a Q&A for the CSE Department at Chalmers. You can watch a snapshot of that video [here](https://www.youtube.com/watch?v=QEWJPsonoL8)!
 * *22-11-08* - You can download the slides from my recent talk in the ML for Chemistry and Beyond seminar, *Exploring new frontiers in drug discovery using deep generative models*, <a href="../files/20221108_EPFL-ML4Chem_Mercado.pptx">here (.pptx)</a>.
 * *22-11-07* - Our [group website](https://ailab.bio/) is up and running! Though we are still in the process of updating a few pages, feel free to start browsing our [research interests](https://ailab.bio/research-themes) and [open positions](https://ailab.bio/join-us).
 * *22-11-06* - Our [paper](https://openreview.net/pdf?id=pGyp4o9gky0) on graph-based de novo PROTAC design was accepted at the AI4Science NeurIPS 2022 Workshop. Congrats to our wonderful UROP student, Divya, who led this work!
 * *22-10-12* - [New version of SynNet](https://github.com/wenhao-gao/SynNet) is out. Thanks to Christian for all the improvements and bug fixes!
-* *22-10-11* - Our students' article on reinforcement learning for graph-based molecular design is just accepted at JCIM. Check out the article [here](https://doi.org/10.1021/acs.jcim.2c00838). Congrats, Sara and Juan!
-* *22-10-11* - I've advertised the first MSc thesis projects in my group at Chalmers ([link to project descriptions](https://masterthesis.cms.chalmers.se/supervisor/rocio-mercado)). The projects will be joint with teams at AstraZeneca. If you are a Chalmers MSc student in any department and interested in learning more about either of these projects, please reach out! 
-* *22-06-22* - Excited to share that I’ll be joining the faculty in the Data Science & AI division at Chalmers as an assistant professor starting January 2023, where I will be starting my own research group in data-driven molecular design!
-* *22-04-29* - Our recent work on synthesizable molecular design was [featured](https://news.mit.edu/2022/ai-molecules-new-drugs-0426) on MIT News.
-* *22-01-22* - Our conference paper on synthesizability-constrained molecular generation was accepted at ICLR 2022. Check out the paper and discussion [here](https://openreview.net/forum?id=FRxhHdnxt1).
-* *21-12-13* - Juan recently presented his work on a transferable Boltzmann generator for molecular conformer generation at the [ELLIS Machine Learning for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/) (poster #7). Check out his paper [here](https://cloud.ml.jku.at/s/sKtfdFpoTp9F7sJ).
-* *21-11-13* - I recently spoke with Abhigyan Ray about my scientific journey on the Random Walks podcast. You can listen to the podcast on your favorite platform [here](https://linktr.ee/randomwalks).
 
-Last updated *32-01-20*.
+Last updated *23-01-20*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
