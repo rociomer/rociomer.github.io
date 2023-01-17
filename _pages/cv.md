@@ -15,7 +15,7 @@ redirect_from:
 
 ## Research experience
 * **Assistant professor**, *Jan 2023 - present*
-  * AIBE, Chalmers University of Technology
+  * AIBE, Chalmers
 
 * **Postdoctoral associate**, *Aug 2021 – Dec 2022*
   * Coley group, MIT
