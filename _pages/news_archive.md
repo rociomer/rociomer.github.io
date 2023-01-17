@@ -33,7 +33,7 @@ author_profile: true
 * *20-11-08* -  Check out the [guest blog post](http://www.cheminformania.com/using-graphinvent-to-generate-novel-drd2-actives/) I wrote for Cheminformania on using GraphINVENT to generate novel DRD2 actives!
 
 ## Photo archive
-The beginning of my research career. I joined Harry Gray's lab at Caltech in the spring of 2011:
+The beginning of my research career: I joined Harry Gray's lab at Caltech in the spring of 2011. Excuse the potato quality.
 ![Me and Megan, spring 2011](/images/1.jpg)
 
 Presenting a poster at my first ACS meeting in New Orleans (sometime spring 2013):
