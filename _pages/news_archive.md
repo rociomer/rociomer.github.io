@@ -31,3 +31,40 @@ author_profile: true
 * *20-11-27* - I recently presented at the 2020 GAIA (Gothenburg AI Alliance) conference! Check out the recorded conference stream [here](https://www.youtube.com/watch?v=ljhtfrtuNqw&feature=youtu.be).
 * *20-11-16* - We just published a new [preprint](https://chemrxiv.org/articles/preprint/Comparative_Study_of_Deep_Generative_Models_on_Chemical_Space_Coverage/13234289) on the ChemRxiv where we compare chemical space coverage, including functional group and ring system coverage, in the following deep generative models: CharRNN, REINVENT, AAE, VAE, ORGAN, LatentGAN, and GraphINVENT.
 * *20-11-08* -  Check out the [guest blog post](http://www.cheminformania.com/using-graphinvent-to-generate-novel-drd2-actives/) I wrote for Cheminformania on using GraphINVENT to generate novel DRD2 actives!
+
+## Photo archive
+The beginning of my research career. I joined Harry Gray's lab at Caltech in the spring of 2011:
+![Me and Megan, spring 2011](/images/1.jpg)
+
+Presenting a poster at my first ACS meeting in New Orleans (sometime spring 2013):
+![First ACS](/images/2.jpg)
+
+After the UG senior thesis symposium at Caltech (chemistry department). Pictured are Harry, Dong Woo, me, Megan, and Christine:
+![Senior thesis defense](/images/3.jpeg)
+
+Presenting my first first-author paper in grad school (photo taken sometime in 2015):
+![Force fields in Lausanne](/images/4.jpg)
+
+Third year of grad school: passed my qualifying exam! Turns out second time's the charm.
+![I pass my quals](/images/5.jpg)
+
+Me and some of my students after four hours of gen-chem lab, along with our UG teaching assistant. Pictured are Varun, me, Shehan (UTA), and Nick, sometime in 2015:
+![Chem 1B lab](/images/6.jpeg)
+
+The MolSim group moves to Switzerland. Photo taken sometime in 2016:
+![MolSim in Switzerland](/images/7.jpg)
+
+Finished my PhD and went on a 6-week solo trip across Eastern Europe. Then moved to Sweden for my first postdoc. Pictured here in Pripyat (town near Chernobyl):
+![Chernobyl](/images/7.5.jpg)
+
+The dark ages (COVID pandemic and working from home, 2020):
+![The pandemic](/images/8.jpg)
+
+Moved to Massachusetts for my second postdoc. Here I am with the Coley group after apple picking (2022):
+![Apple picking](/images/9.jpg)
+
+Presenting at the Broad ML in Drug Discovery symposium:
+![Broad symposium](/images/10.jpg)
+
+Back in New Orleans for NeurIPS in late 2022. About to become a professor. 
+![NeurIPS](/images/11.jpg)
