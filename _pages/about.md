@@ -14,7 +14,9 @@ I am recruiting for various positions in my new group in [Gothenburg](https://ww
 
 Previously, I was a postdoctoral associate in the [Coley group](https://coley.mit.edu/) at MIT, as well as an industrial postdoc in the [Molecular AI team](https://github.com/MolecularAI) at AstraZeneca. Throughout my postdoctoral career, I worked on the development of deep generative models for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at [UC Berkeley](http://www.cchem.berkeley.edu/molsim/) and [EPFL](https://www.epfl.ch/labs/lsmo/). I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
 
-I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc. In my spare time, I enjoy the typical academic hobbies (e.g., hiking, reading, etc.) as well as jazzy dances like tap and lindy hop. I live with my dog, Cloé, and my cat, Harvey.
+I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc. In my spare time, I enjoy the typical academic hobbies (e.g., hiking, reading, drinking too many cappuccinos) as well as tap dancing, lindy hop, and going for scenic bike rides with friends. I live with my dog, Cloé, and my cat, Harvey.
+
+![Biking in the cape](/images/biking.jpg)
 
 I can be reached at rocom [at] chalmers [dot] se.
 

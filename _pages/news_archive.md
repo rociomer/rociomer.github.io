@@ -36,16 +36,16 @@ author_profile: true
 The beginning of my research career: I joined Harry Gray's lab at Caltech in the spring of 2011. Excuse the potato quality.
 ![Me and Megan, spring 2011](/images/1.jpg)
 
-Presenting a poster at my first ACS meeting in New Orleans (sometime spring 2013):
+Boiling with enthusiasm at presenting a poster at my first ACS meeting in New Orleans. Photo taken sometime in 2012:
 ![First ACS](/images/2.jpg)
 
-After the UG senior thesis symposium at Caltech (chemistry department). Pictured are Harry, Dong Woo, me, Megan, and Christine:
+After the UG senior thesis symposium at Caltech (chemistry department). You can see the laser focus in our eyes. Pictured are Harry, Dong Woo, me, Megan, and Christine:
 ![Senior thesis defense](/images/3.jpeg)
 
 Presenting my first first-author paper in grad school (photo taken sometime in 2015):
 ![Force fields in Lausanne](/images/4.jpg)
 
-Third year of grad school: passed my qualifying exam! Second time's the charm. ;)
+Third year of grad school: passed my qualifying exam!
 ![I pass my quals](/images/5.jpg)
 
 Me and some of my students after four hours of gen-chem lab, along with our UG teaching assistant. Pictured are Varun, me, Shehan (UTA), and Nick, sometime in 2015:
@@ -54,13 +54,13 @@ Me and some of my students after four hours of gen-chem lab, along with our UG t
 The MolSim group moves to Switzerland. Photo taken sometime in 2016:
 ![MolSim in Switzerland](/images/7.jpg)
 
-Finished my PhD and went on a 6-week solo trip across Eastern Europe. Then moved to Sweden for my first postdoc. Pictured here in Pripyat (town near Chernobyl):
+2018: finished my PhD and went on a 6-week solo trip across Eastern Europe. Then moved to Sweden for my first postdoc. Pictured here in Pripyat (town near Chernobyl):
 ![Chernobyl](/images/7.5.jpg)
 
 The dark ages (COVID pandemic and working from home, 2020):
 ![The pandemic](/images/8.jpg)
 
-Moved to Massachusetts for my second postdoc. Here I am with the Coley group after apple picking (2022):
+Moved to Massachusetts for my second postdoc. Here is the Coley group apple picking (2022):
 ![Apple picking](/images/9.jpg)
 
 Presenting at the Broad ML in Drug Discovery symposium:
