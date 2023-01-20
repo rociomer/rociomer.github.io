@@ -45,7 +45,7 @@ After the UG senior thesis symposium at Caltech (chemistry department). Pictured
 Presenting my first first-author paper in grad school (photo taken sometime in 2015):
 ![Force fields in Lausanne](/images/4.jpg)
 
-Third year of grad school: passed my qualifying exam! Turns out second time's the charm.
+Third year of grad school: passed my qualifying exam! Second time's the charm. ;)
 ![I pass my quals](/images/5.jpg)
 
 Me and some of my students after four hours of gen-chem lab, along with our UG teaching assistant. Pictured are Varun, me, Shehan (UTA), and Nick, sometime in 2015:
@@ -66,5 +66,5 @@ Moved to Massachusetts for my second postdoc. Here I am with the Coley group aft
 Presenting at the Broad ML in Drug Discovery symposium:
 ![Broad symposium](/images/10.jpg)
 
-Back in New Orleans for NeurIPS in late 2022. About to become a professor. 
+Back in New Orleans for NeurIPS in late 2022. About to become a professor.
 ![NeurIPS](/images/11.jpg)
