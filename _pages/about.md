@@ -21,6 +21,7 @@ I am Mexican-American, originally from [Wilmington, California](https://en.wikip
 I can be reached at rocom [at] chalmers [dot] se.
 
 # News
+* *23-01-25* - I'm recruiting for two PhD student positions in my research team! You can find the advertisements [on this page](https://ailab.bio/join-us). If you want to learn more about what it would be like to work in my team, check out our [group guide](https://ailab.bio/group-guide).
 * *23-01-09* - First official day as an assistant professor at Chalmers! 
 * *22-11-11* - I recently did a Q&A for the CSE Department at Chalmers. You can watch a snapshot of that video [here](https://www.youtube.com/watch?v=QEWJPsonoL8)!
 * *22-11-08* - You can download the slides from my recent talk in the ML for Chemistry and Beyond seminar, *Exploring new frontiers in drug discovery using deep generative models*, <a href="../files/20221108_EPFL-ML4Chem_Mercado.pptx">here (.pptx)</a>.
@@ -28,6 +29,6 @@ I can be reached at rocom [at] chalmers [dot] se.
 * *22-11-06* - Our [paper](https://openreview.net/pdf?id=pGyp4o9gky0) on graph-based de novo PROTAC design was accepted at the AI4Science NeurIPS 2022 Workshop. Congrats to our wonderful UROP student, Divya, who led this work!
 * *22-10-12* - [New version of SynNet](https://github.com/wenhao-gao/SynNet) is out. Thanks to Christian for all the improvements and bug fixes!
 
-Last updated *23-01-20*.
+Last updated *23-01-26*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
