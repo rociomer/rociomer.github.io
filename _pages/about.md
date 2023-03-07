@@ -17,7 +17,7 @@ Previously, I was a postdoctoral associate in the [Coley group](https://coley.mi
 I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc. In my spare time, I enjoy the typical academic hobbies (e.g., hiking, reading, drinking too many cappuccinos) as well as tap dancing, lindy hop, and going for scenic bike rides with friends. I live with my dog, Cloé, and my cat, Harvey.
 
 ![Biking in the cape](/images/biking.jpg)
-PC: Puikei Cheng
+*PC: Puikei Cheng*
 
 I can be reached at rocom [at] chalmers [dot] se.
 
