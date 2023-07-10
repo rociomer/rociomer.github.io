@@ -74,15 +74,15 @@ author:
   name             : "Rocío Mercado"
   avatar           : "profile-pic.jpg"
   bio              : "AI-driven biomolecular engineering"
-  location         : 
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=v2P0-IoAAAAJ&hl=en"
-  email            : "rocom@chalmers.se" 
+  email            : "rocom@chalmers.se"
   github           : "rociomer"
-  linkedin         : "rociomer"
+  linkedin         :
   orcid            : "http://orcid.org/0000-0002-6170-6088"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  twitter          : "rociomer3"
+  twitter          :
 
 
 # Reading Files
