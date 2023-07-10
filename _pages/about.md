@@ -14,7 +14,7 @@ In August 2023, I will be recruiting for various positions in my group in [Gothe
 
 Previously, I was a postdoctoral associate in the [Coley group](https://coley.mit.edu/) at MIT, as well as an industrial postdoc in the [Molecular AI team](https://github.com/MolecularAI) at AstraZeneca. Throughout my postdoctoral career, I worked on the development of deep generative models for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at [UC Berkeley](http://www.cchem.berkeley.edu/molsim/) and [EPFL](https://www.epfl.ch/labs/lsmo/). I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
 
-I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc.
+I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc!
 
 ![Biking in the cape](/images/biking.jpg)
 *PC: Puikei Cheng*
