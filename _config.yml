@@ -155,9 +155,6 @@ collections:
   upcoming_talks:
     output: true
     permalink: /:collection/:path/
-  resources:
-    output: true
-    permalink: /:collection/:path/
   code:
     output: true
     permalink: /:collection/:path/
@@ -165,16 +162,6 @@ collections:
 
 # Defaults
 defaults:
-  # _resources
-  - scope:
-      path: ""
-      type: resources
-    values:
-      layout: single
-      author_profile: true
-      comments: true
-      share: true
-      related: true
   # _code
   - scope:
       path: ""
