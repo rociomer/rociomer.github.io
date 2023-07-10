@@ -12,4 +12,4 @@ location: "Online"
 
 [event page](https://www.skypeascientist.com/skype-a-scientist-live.html)
 
-Skype A Scientist LIVE 
+Skype A Scientist LIVE
