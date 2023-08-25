@@ -22,6 +22,7 @@ I am Mexican-American, originally from [Wilmington, California](https://en.wikip
 I can be reached at rocom [at] chalmers [dot] se.
 
 # News
+* *23-08-25* - Our group is currently recruiting two postdocs! For details, check out our [group page](https://ailab.bio/join-us).
 * *23-07-10* - Out of office July 11 - August 14. I will be slow in responding to email and prioritize communications from students. Thank you for your patience!
 * *23-07-05* - Our [perspective on data sharing in chemistry](https://doi.org/10.1021/acs.jcim.3c00607) is now published in JCIM! If you're interested in a (brief) history of data sharing in chemistry, and some steps we can take to improve the publication of chemical reaction data, then you're in luck.
 * *23-01-09* - First official day as an assistant professor at Chalmers!
