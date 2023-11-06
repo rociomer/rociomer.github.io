@@ -40,8 +40,9 @@ redirect_from:
 * Open-source software development
 
 ## Theses supervised
-* **2023** \| Edwin Holst & Preetha Mutharasu, '23 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link]()
-* **2023** \| Stefano Ribes, '23 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link]()
+* **2023** \| Mert Yurdakul, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
+* **2023** \| Edwin Holst & Preetha Mutharasu, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
+* **2023** \| Stefano Ribes, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
 * **2023** \| Supriya Kancharla & Siva Manohar Koki, '23 MSc Applied Data Science, *University of Gothenburg*, [link]()
 * **2023** \| Kinga Jenei, '23 MSc Applied Data Science, *University of Gothenburg*, [link]()
 * **2021** \| Sara Romeo Atance & Juan Viguera Diez, '21 MSc Complex Adaptive Systems, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/302827)

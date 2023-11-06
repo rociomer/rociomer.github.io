@@ -22,7 +22,7 @@ I am Mexican-American, originally from [Wilmington, California](https://en.wikip
 I can be reached at rocom [at] chalmers [dot] se.
 
 # News
-* *23-09-12* - Our division is currently recruiting for a position at the assistant professor (FoAss) level at Chalmers. The position is for candidates working in the data-driven life sciences (and related) fields. Consider applying and come be our colleague! [link to job announcement](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11769&rmlang=UK)
+* *23-09-12* - Our division is currently recruiting for a position at the assistant professor (FoAss) level at Chalmers. The position is for candidates working in the data-driven life sciences (and related) fields. Consider applying and come be our colleague! [link to job announcement](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11769&rmlang=UK) (closed)
 * *23-08-25* - Our group is currently recruiting two postdocs! For details, check out our [group page](https://ailab.bio/join-us).
 * *23-07-10* - Out of office July 11 - August 14. I will be slow in responding to email and prioritize communications from students. Thank you for your patience!
 * *23-07-05* - Our [perspective on data sharing in chemistry](https://doi.org/10.1021/acs.jcim.3c00607) is now published in JCIM! If you're interested in a (brief) history of data sharing in chemistry, and some steps we can take to improve the publication of chemical reaction data, then you're in luck.
