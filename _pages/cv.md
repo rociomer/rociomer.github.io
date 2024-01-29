@@ -32,7 +32,7 @@ redirect_from:
 
 ## Research areas
 * AI-guided molecular engineering
-* Deep molecular generative models
+* Deep molecular generative models (GenAI)
 * Multi-target therapeutic modalities
 * Targeted protein degradation
 * Low-data molecular property prediction and optimization
