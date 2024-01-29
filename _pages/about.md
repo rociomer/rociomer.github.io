@@ -29,6 +29,6 @@ I can be reached at rocom [at] chalmers [dot] se.
 * *22-11-07* - Our [group website](https://ailab.bio/) is up and running! Though we are still in the process of updating a few pages, feel free to start browsing our [research interests](https://ailab.bio/research-themes) and [open positions](https://ailab.bio/join-us).
 * *22-11-06* - Our [paper](https://openreview.net/pdf?id=pGyp4o9gky0) on graph-based de novo PROTAC design was accepted at the AI4Science NeurIPS 2022 Workshop. Congrats to our wonderful UROP student, Divya, who led this work!
 
-Last updated *23-11-30*.
+Last updated *24-01-29*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
