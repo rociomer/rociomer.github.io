@@ -18,17 +18,17 @@ redirect_from:
   * AI lab for Biomolecular Engineering (AIBE), Chalmers
 
 * **Postdoctoral associate**, *Aug 2021 – Dec 2022*
-  * Coley group, MIT
+  * [Coley group](https://coley.mit.edu/), MIT
 
 * **Postdoctoral researcher**, *Oct 2018 –  Jul 2021*
-  * Molecular AI team, AstraZeneca
+  * [Molecular AI team](https://github.com/MolecularAI), AstraZeneca
 
 * **PhD researcher**, *Sep 2013 – Aug 2018*
-  * MolSim group, UC Berkeley
-  * LSMO group, EPFL
+  * [MolSim group](https://www.cchem.berkeley.edu/~molsim/), UC Berkeley
+  * [LSMO group](https://www.epfl.ch/labs/lsmo/), EPFL
 
 * **Undergraduate researcher**, *Apr 2011 – Jul 2013*
-  * Gray group, Caltech
+  * [Gray group](https://www.bilrc.caltech.edu/), Caltech
 
 ## Research areas
 * AI-guided molecular engineering
