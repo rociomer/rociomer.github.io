@@ -15,7 +15,7 @@ redirect_from:
 
 ## Research experience
 * **Assistant professor**, *Jan 2023 - present*
-  * AI lab for Biomolecular Engineering (AIBE), Chalmers
+  * [AI Lab for Biomolecular Engineering (AIBE)](https://ailab.bio/), Chalmers
 
 * **Postdoctoral associate**, *Aug 2021 – Dec 2022*
   * [Coley group](https://coley.mit.edu/), MIT
