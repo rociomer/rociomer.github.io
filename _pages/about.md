@@ -30,8 +30,7 @@ I can be reached at rocom [at] chalmers [dot] se.
 * *23-07-05* - Our [perspective on data sharing in chemistry](https://doi.org/10.1021/acs.jcim.3c00607) is now published in JCIM! If you're interested in a (brief) history of data sharing in chemistry, and some steps we can take to improve the publication of chemical reaction data, then you're in luck.
 * *23-01-09* - First official day as an assistant professor at Chalmers!
 * *22-11-07* - Our [group website](https://ailab.bio/) is up and running! Though we are still in the process of updating a few pages, feel free to start browsing our [research interests](https://ailab.bio/research-themes) and [open positions](https://ailab.bio/join-us).
-* *22-11-06* - Our [paper](https://openreview.net/pdf?id=pGyp4o9gky0) on graph-based de novo PROTAC design was accepted at the AI4Science NeurIPS 2022 Workshop. Congrats to our wonderful UROP student, Divya, who led this work!
 
-Last updated *24-01-29*.
+Last updated *24-04-15*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
