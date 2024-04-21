@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## News archive
 * *23-01-25* - I'm recruiting for two PhD student positions in my research team! You can find the advertisements [on this page](https://ailab.bio/join-us). If you want to learn more about what it would be like to work in my team, check out our [group guide](https://ailab.bio/group-guide).
 * *22-11-11* - I recently did a Q&A for the CSE Department at Chalmers. You can watch a snapshot of that video [here](https://www.youtube.com/watch?v=QEWJPsonoL8)!
 * *22-11-08* - You can download the slides from my recent talk in the ML for Chemistry and Beyond seminar, *Exploring new frontiers in drug discovery using deep generative models*, <a href="../files/20221108_EPFL-ML4Chem_Mercado.pptx">here (.pptx)</a>.
