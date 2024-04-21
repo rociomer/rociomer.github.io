@@ -143,9 +143,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -155,22 +152,10 @@ collections:
   upcoming_talks:
     output: true
     permalink: /:collection/:path/
-  code:
-    output: false
-    permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single
-      author_profile: true
-      comments: false
-      share: false
   # _pages
   - scope:
       path: ""
@@ -178,15 +163,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
   # _publications
   - scope:
       path: ""
