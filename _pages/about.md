@@ -31,6 +31,6 @@ I can be reached at rocom [at] chalmers [dot] se.
 * *23-01-09* - First official day as an assistant professor at Chalmers!
 * *22-11-07* - Our [group website](https://ailab.bio/) is up and running! Though we are still in the process of updating a few pages, feel free to start browsing our [research interests](https://ailab.bio/research-themes) and [open positions](https://ailab.bio/join-us).
 
-Last updated *24-04-21*.
+Last updated *24-06-06*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
