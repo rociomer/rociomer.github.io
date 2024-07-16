@@ -40,6 +40,11 @@ redirect_from:
 * Open-source software development
 
 ## Theses supervised
+* **2024** \| Pär Aronsson & Amanda Dehlén, '24 MSc Data Science & AI and '24 MSc Algorithms, Languages, & Logic, *Chalmers University of Technology*, [link]()
+* **2024** \| Philip Ivers Ohlsson, '24 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
+* **2024** \| Jin Ahmad, '24 BSc Chemistry, *Karlstad University*, [link]()
+* **2024** \| Leo Andrekson, '24 MSc Biotechnology, *Chalmers University of Technology*, [link]()
+* **2024** \| Anders Källberg, '24 MSc Biotechnology, *Chalmers University of Technology*, [link]()
 * **2023** \| Mert Yurdakul, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
 * **2023** \| Edwin Holst & Preetha Mutharasu, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
 * **2023** \| Stefano Ribes, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
