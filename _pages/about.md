@@ -14,10 +14,9 @@ Previously, I was a postdoctoral associate in the [Coley group](https://coley.mi
 
 I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc!
 
-![Biking in the cape](/images/biking.jpg)
-*PC: Puikei Cheng*
+![24-07-20 - Tjolöholm](/images/24-07-20 - Tjolöholm.jpg)
 
-I can be reached at rocom [at] chalmers [dot] se.
+I can be reached at rocio.mercado [at] chalmers [dot] se or rocio [at] ailab [dot] bio.
 
 # News
 * *24-04-14* - Save the date for the following two exciting workshops happening in Gothenburg this fall, both of which I am co-organizing:
