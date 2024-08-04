@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor in the [Data Science and AI](https://www.chalmers.se/en/departments/cse/research/dsai/Pages/default.aspx) division at Chalmers since January 2023. I head the [AI Laboratory for Molecular Engineering (AIME)](https://ailab.bio/) in the Department of Computer Science and Engineering. If you are a student/postdoc interested in doing research at the interface of machine learning and the life sciences in a vibrant and supportive environment, feel free to reach out via email to learn more about upcoming opportunities [in my group](https://ailab.bio/join-us) and [at Chalmers](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx)!
+I am a tenure-track assistant professor in the [Data Science and AI](https://www.chalmers.se/en/departments/cse/research/dsai/Pages/default.aspx) division at Chalmers since January 2023. I head the [AI Laboratory for Molecular Engineering (AIME)](https://ailab.bio/) in the Department of Computer Science and Engineering. If you are a student/postdoc interested in doing research at the interface of machine learning, life science, and materials science in a vibrant and supportive environment, feel free to reach out via email to learn more about upcoming opportunities [in my team](https://ailab.bio/join-us) and [at Chalmers](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx)!
 
-Previously, I was a postdoctoral associate in the [Coley group](https://coley.mit.edu/) at MIT, as well as an industrial postdoc in the [Molecular AI team](https://github.com/MolecularAI) at AstraZeneca. Throughout my postdoctoral career, I worked on the development of Generative AI for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at [UC Berkeley](http://www.cchem.berkeley.edu/molsim/) and [EPFL](https://www.epfl.ch/labs/lsmo/). I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
+Previously, I was a postdoctoral associate in the [Coley group](https://coley.mit.edu/) at MIT, as well as an industrial postdoc in the [Molecular AI team](https://github.com/MolecularAI) at AstraZeneca. Throughout my postdoctoral career, I worked on the development of Generative AI for small molecule drug discovery. Before AstraZeneca, I was a PhD student in Professor Berend Smit’s molecular simulation group at [UC Berkeley](http://www.cchem.berkeley.edu/molsim/) and [EPFL](https://www.epfl.ch/labs/lsmo/) where I worked on materials discovery for carbon capture applications. I received my PhD in Chemistry from UC Berkeley in August 2018, and my BS in Chemistry from Caltech in June 2013.
 
 I am Mexican-American, originally from [Wilmington, California](https://en.wikipedia.org/wiki/Wilmington,_Los_Angeles), but I fell in love with Gothenburg when I moved here for my first postdoc!
 
@@ -30,6 +30,6 @@ I can be reached at rocio.mercado [at] chalmers [dot] se or rocio [at] ailab [do
 * *23-01-09* - First official day as an assistant professor at Chalmers!
 * *22-11-07* - Our [group website](https://ailab.bio/) is up and running! Though we are still in the process of updating a few pages, feel free to start browsing our [research interests](https://ailab.bio/research-themes) and [open positions](https://ailab.bio/join-us).
 
-Last updated *24-07-15*.
+Last updated *24-08-04*.
 
 In case you are wondering, here's [how to pronounce my name](https://youtu.be/s7A2uDrmjgY).
