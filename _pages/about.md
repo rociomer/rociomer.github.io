@@ -19,7 +19,8 @@ I am Mexican-American, originally from [Wilmington, California](https://en.wikip
 I can be reached at rocio.mercado [at] chalmers [dot] se or rocio [at] ailab [dot] bio.
 
 # News
-* *24-04-14* - Save the date for the following two exciting workshops happening in Gothenburg this fall, both of which I am co-organizing:
+* *24-12-03* - AI4Mat was accepted at ICLR 2025! More info will be announced soon. In the meantime, feel free to browse the [proposal](https://openreview.net/forum?id=DV0ar1j6Zw)
+* *24-04-14* - Save the date for the following two exciting workshops happening in Gothenburg this fall, both of which I am co-organi.zing:
   * Aug 26-28, 2024 - [Machine Learning for Materials and Molecular Discoveries Symposium (ML2MD)](https://ui.ungpd.com/Events/e2f732ce-74f8-46aa-916e-3307251d42b4)
   * Oct 29-31, 2024 - [CHAIR Structured Learning Workshop](https://ui.ungpd.com/Events/6b0a7d77-0bd4-4bc2-a378-bb6d052d5b08)
 * *24-01-29* - Our team at Chalmers is currently recruiting for two positions to join us as part of the Intel-Merck AWASES program. In this project, a PhD student and postdoc will work closely with researchers at Intel and Merck to engineer non-toxic [PFAS](https://research.ibm.com/projects/pfas) replacements using AI. Here is [the link to the PhD advertisement](https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=job&rmjob=12530&rmlang=SE), and here is [the link to the postdoc advertisement](https://www.chalmers.se/om-chalmers/arbeta-hos-oss/lediga-tjanster/?rmpage=job&rmjob=12529&rmlang=SE).
