@@ -19,7 +19,7 @@ I am Mexican-American, originally from [Wilmington, California](https://en.wikip
 I can be reached at rocio.mercado [at] chalmers [dot] se or rocio [at] ailab [dot] bio.
 
 # News
-* *24-12-03* - AI4Mat was accepted at ICLR 2025! More info will be announced soon. In the meantime, feel free to browse the [proposal](https://openreview.net/forum?id=DV0ar1j6Zw)
+* *24-12-03* - AI4Mat was accepted at ICLR 2025! More info will be announced soon. In the meantime, feel free to browse the [proposal](https://openreview.net/forum?id=DV0ar1j6Zw).
 
 Last updated *24-12-03*.
 
