@@ -34,9 +34,10 @@ You can download a copy of my CV [here](/files/24-12-04 - RMO CV.pdf). *Last upd
 
 ## Research areas
 * AI-guided molecular engineering
-* Deep molecular generative models (GenAI)
+* Deep molecular generative models
 * Multi-target therapeutic modalities
 * Targeted protein degradation
+* Materials design
 * Low-data molecular property prediction and optimization
 * Atomistic simulations
 * Open-source software development
