@@ -1,5 +1,5 @@
 ---
-title: "deCIFer: Crystal Structure Prediction from Powder Diffraction Data using Autoregressive Language Models"
+title: "deCIFer: crystal structure prediction from powder diffraction data using autoregressive language models"
 collection: publications
 permalink: /publication/2025-02-04-decifer-arxiv
 excerpt: 'In this work, we introduce an autoregressive language model that performs crystal structure prediction (CSP) from powder diffraction data. The presented model, deCIFer, generates crystal structures in the widely used Crystallographic Information File (CIF) format and can be conditioned on powder X-ray diffraction (PXRD) data.'
