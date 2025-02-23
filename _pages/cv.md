@@ -43,19 +43,19 @@ You can download a copy of my CV [here](/files/24-12-04 - RMO CV.pdf). *Last upd
 * Open-source software development
 
 ## Theses supervised
-* **2024** \| Pär Aronsson & Amanda Dehlén, '24 MSc Data Science & AI and '24 MSc Algorithms, Languages, & Logic, *Chalmers University of Technology*, [link]()
-* **2024** \| Philip Ivers Ohlsson, '24 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
-* **2024** \| Jin Ahmad, '24 BSc Chemistry, *Karlstad University*, [link]()
-* **2024** \| Leo Andrekson, '24 MSc Biotechnology, *Chalmers University of Technology*, [link]()
-* **2024** \| Anders Källberg, '24 MSc Biotechnology, *Chalmers University of Technology*, [link]()
-* **2023** \| Mert Yurdakul, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
-* **2023** \| Edwin Holst & Preetha Mutharasu, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
-* **2023** \| Stefano Ribes, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link]()
-* **2023** \| Supriya Kancharla & Siva Manohar Koki, '23 MSc Applied Data Science, *University of Gothenburg*, [link]()
-* **2023** \| Kinga Jenei, '23 MSc Applied Data Science, *University of Gothenburg*, [link]()
-* **2021** \| Sara Romeo Atance & Juan Viguera Diez, '21 MSc Complex Adaptive Systems, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/302827)
-* **2021** \| Julio Ponte Hernández, '21 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/302703)
-* **2020** \| Tobias Rastemo, '20 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link](https://hdl.handle.net/20.500.12380/301735)
+* **2024** \| Pär Aronsson & Amanda Dehlén, '24 MSc Data Science & AI and '24 MSc Algorithms, Languages, & Logic, *Chalmers University of Technology*
+* **2024** \| Philip Ivers Ohlsson, '24 MSc Data Science & AI, *Chalmers University of Technology*
+* **2024** \| Jin Ahmad, '24 BSc Chemistry, *Karlstad University*, [link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1863673&dswid=-1135)
+* **2024** \| Leo Andrekson, '24 MSc Biotechnology, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/2b54d8d3-a82f-48bc-86f5-95245f843da5)
+* **2024** \| Anders Källberg, '24 MSc Biotechnology, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/f120c9ba-4e26-4f19-bd2e-6685ac2bd5cf)
+* **2023** \| Mert Yurdakul, '23 MSc Data Science & AI, *Chalmers University of Technology*
+* **2023** \| Edwin Holst & Preetha Mutharasu, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/431ca901-2d95-4259-ba77-e02d9c1ee4c0)
+* **2023** \| Stefano Ribes, '23 MSc Data Science & AI, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/9ee39a73-302c-41e2-ac7f-45897f3dbd18)
+* **2023** \| Supriya Kancharla & Siva Manohar Koki, '23 MSc Applied Data Science, *University of Gothenburg*, [link](https://gupea.ub.gu.se/handle/2077/78918)
+* **2023** \| Kinga Jenei, '23 MSc Applied Data Science, *University of Gothenburg*, [link](https://gupea.ub.gu.se/handle/2077/78914)
+* **2021** \| Sara Romeo Atance & Juan Viguera Diez, '21 MSc Complex Adaptive Systems, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/86933417-4adb-419b-bd5f-81e0b4d5aa69)
+* **2021** \| Julio Ponte Hernández, '21 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/feec5a08-3045-4fe4-b8f6-c3c49748613f)
+* **2020** \| Tobias Rastemo, '20 MSc Computer Science & Engineering, *Chalmers University of Technology*, [link](https://odr.chalmers.se/items/082a17d3-40d3-4998-8348-af5b0ed88a5b)
 * **2018** \| Rueih-Sheng (Ray) Fu, '18 BSc Chemical Engineering, *University of California, Berkeley*
 
 ## Awards
