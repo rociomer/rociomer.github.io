@@ -5,7 +5,7 @@ type: "Panel"
 permalink: /talks/2025-04-06-vetenskapsfestivalen-2025
 venue: "Fika med forskare"
 date: 2025-04-06
-location: "Eva's Paley"
+location: "Eva's Paley café, Gothenburg, SE"
 ---
 
 [event page](https://www.vetenskapsfestivalen.se/for-alla/fika-med-forskare/6820/#single-event-description)
