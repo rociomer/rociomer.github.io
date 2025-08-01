@@ -60,6 +60,7 @@ For the most recent list of theses and students supervised, please see the list 
 * **2018** \| Rueih-Sheng (Ray) Fu, '18 BSc Chemical Engineering, *University of California, Berkeley*
 
 ## Awards
+* **2025** \| Supervisor of the Year Finalist (Top 3), Chalmers Doctoral Students' Guild 
 * **2023** \| [Starting Grant](https://www.vr.se/english/applying-for-funding/calls/2022-11-10-starting-grant-within-natural-and-engineering-sciences.html), Swedish Research Council
 * **2021** \| [Reviewer of the Month](https://www.nature.com/commschem/referees/outstanding-referees), Communications Chemistry
 * **2020** \| [Outstanding Reviewer](https://publishingsupport.iopscience.iop.org/questions/machine-learning-science-technology-2020-reviewer-awards/), Machine Learning: Science and Technology, IOP Publishing
