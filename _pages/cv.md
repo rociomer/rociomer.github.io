@@ -43,6 +43,7 @@ You can download a copy of my CV [here](/files/25-02-23 - RMO CV.pdf). *Last upd
 * Open-source software development
 
 ## Theses supervised
+For the most recent list of theses and students supervised, please see the list of current students and 'Alumni' in my [team website](https://ailab.bio/team), or my most recent CV. As of 2025 I am no longer updating this list here.
 * **2024** \| Pär Aronsson & Amanda Dehlén, '24 MSc Data Science & AI and '24 MSc Algorithms, Languages, & Logic, *Chalmers University of Technology*
 * **2024** \| Philip Ivers Ohlsson, '24 MSc Data Science & AI, *Chalmers University of Technology*
 * **2024** \| Jin Ahmad, '24 BSc Chemistry, *Karlstad University*, [link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1863673&dswid=-1135)
