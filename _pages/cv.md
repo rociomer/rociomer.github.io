@@ -60,6 +60,7 @@ For the most recent list of theses and students supervised, please see the list 
 * **2018** \| Rueih-Sheng (Ray) Fu, '18 BSc Chemical Engineering, *University of California, Berkeley*
 
 ## Awards
+* **2025** \| [Starting Grant](https://erc.europa.eu/system/files/2025-09/erc-2025-stg-result-pe.pdf), European Research Council
 * **2025** \| Supervisor of the Year Finalist (Top 3), Chalmers Doctoral Students' Guild 
 * **2023** \| [Starting Grant](https://www.vr.se/english/applying-for-funding/calls/2022-11-10-starting-grant-within-natural-and-engineering-sciences.html), Swedish Research Council
 * **2021** \| [Reviewer of the Month](https://www.nature.com/commschem/referees/outstanding-referees), Communications Chemistry
