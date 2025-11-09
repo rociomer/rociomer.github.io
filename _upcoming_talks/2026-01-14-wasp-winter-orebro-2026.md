@@ -8,4 +8,4 @@ date: 2026-01-15
 location: "Örebro, Sweden"
 ---
 
-Keynote-style invited talk highlighting research trajectory and ERC-supported direction (January 14–15, 2026).
+Invited talk highlighting research trajectory and ERC-supported direction (January 14–15, 2026).
