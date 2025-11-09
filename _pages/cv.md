@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a copy of my CV [here](/files/25-08-01 - RMO CV.pdf). *Last updated:* 25-08-01.
+You can download a copy of my CV [here](/files/25-11-09 - RMO CV.pdf). *Last updated:* 25-11-09.
 
 ## Education
 * PhD in Chemistry, *University of California, Berkeley*, **2018**
