@@ -5,10 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=d7JqeJMAAAAJ&hl=en">my Google Scholar profile</a>.
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+For my most up-to-date list of publications, please check out <a href="https://ailab.bio/publications">the AIME team website</a> or <a href="https://scholar.google.com/citations?user=d7JqeJMAAAAJ&hl=en">my Google Scholar profile</a>.
