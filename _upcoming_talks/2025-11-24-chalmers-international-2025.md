@@ -1,5 +1,5 @@
 ---
-title: "Generative AI for molecular engineering "
+title: "Generative AI for Molecular Engineering "
 collection: talks
 type: "Talk"
 permalink: /talks/2025-11-24-chalmers-international-2025
