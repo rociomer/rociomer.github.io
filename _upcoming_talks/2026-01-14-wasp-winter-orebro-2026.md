@@ -1,5 +1,5 @@
 ---
-title: "Invited Talk (title TBD)"
+title: "AI for Molecular Design and Engineering"
 collection: talks
 type: "Talk"
 permalink: /talks/2026-01-14-wasp-winter-orebro-2026
